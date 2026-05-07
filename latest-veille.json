@@ -1,0 +1,112 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T08:15:00+02:00",
+  "sections": [
+    {
+      "emoji": "🇫🇷",
+      "title": "L'ACTUALITÉ IA EN FRANCE",
+      "items": [
+        {
+          "text": "Mistral AI lève 600 M€ supplémentaires pour accélérer le développement de ses modèles souverains européens.",
+          "source": "Les Échos",
+          "url": "https://www.lesechos.fr"
+        },
+        {
+          "text": "Le gouvernement annonce un plan de 500 M€ pour financer l'adoption de l'IA dans les PME françaises d'ici 2027.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr"
+        },
+        {
+          "text": "France Travail déploie un assistant IA pour accompagner les conseillers dans le suivi des demandeurs d'emploi.",
+          "source": "L'Usine Digitale",
+          "url": "https://www.usine-digitale.fr"
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "title": "L'ACTUALITÉ IA À L'INTERNATIONAL",
+      "items": [
+        {
+          "text": "OpenAI dévoile GPT-5 avec des capacités de raisonnement améliorées et une vitesse d'inférence doublée.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com"
+        },
+        {
+          "text": "Google DeepMind publie une étude montrant qu'AlphaFold 3 peut désormais prédire les interactions protéine-ADN avec une précision record.",
+          "source": "Nature",
+          "url": "https://www.nature.com"
+        },
+        {
+          "text": "L'UE publie les premières lignes directrices d'application de l'AI Act, avec des sanctions pouvant atteindre 35 M€.",
+          "source": "Politico",
+          "url": "https://www.politico.eu"
+        }
+      ]
+    },
+    {
+      "emoji": "🚀",
+      "title": "LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES QUI FONT PARLER",
+      "items": [
+        {
+          "text": "Cursor 0.45 sort avec un mode \"agent en arrière-plan\" capable de faire tourner plusieurs tâches en parallèle sans intervention.",
+          "source": "Product Hunt",
+          "url": "https://www.producthunt.com"
+        },
+        {
+          "text": "Anthropic lance Claude for Work, une offre enterprise avec mémoire persistante et contrôle d'accès par équipe.",
+          "source": "TechCrunch",
+          "url": "https://www.techcrunch.com"
+        },
+        {
+          "text": "Perplexity AI intègre un mode \"Deep Research\" accessible aux abonnés gratuits avec une limite de 5 requêtes/jour.",
+          "source": "Wired",
+          "url": "https://www.wired.com"
+        }
+      ]
+    },
+    {
+      "emoji": "🤩",
+      "title": "LES DINGUERIES DU MOMENT (Reddit / Hacker News)",
+      "items": [
+        {
+          "text": "Un développeur a créé un agent IA qui joue à Minecraft en autonomie complète depuis 48h — il a construit une ville entière.",
+          "source": "r/artificial",
+          "url": "https://reddit.com/r/artificial"
+        },
+        {
+          "text": "Demo virale : GPT-4o utilisé pour retranscrire et traduire en temps réel une conférence médicale en 12 langues simultanément.",
+          "source": "r/ChatGPT",
+          "url": "https://reddit.com/r/ChatGPT"
+        },
+        {
+          "text": "\"J'ai demandé à Claude de refactoriser 10 ans de code legacy en 6 heures\" — thread HN à 800 points avec retours détaillés.",
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com"
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "title": "COULISSES & CONTROVERSES",
+      "items": [
+        {
+          "text": "OpenAI aurait annulé en interne le lancement de son modèle vocal avancé suite à des tests montrant des biais racistes dans la prosodie.",
+          "source": "404 Media",
+          "url": "https://www.404media.co"
+        },
+        {
+          "text": "Conflit entre Stability AI et ses actionnaires : le CEO accusé d'avoir signé des contrats de licence sans accord du conseil.",
+          "source": "Platformer",
+          "url": "https://www.platformer.news"
+        },
+        {
+          "text": "Le Sénat américain auditionne les PDG de Meta et Google sur l'utilisation des données personnelles pour entraîner leurs modèles.",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com"
+        }
+      ]
+    }
+  ],
+  "email_count": 12
+}
