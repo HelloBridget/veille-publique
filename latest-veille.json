@@ -1,57 +1,108 @@
-{
-  "date": "2026-05-12",
-  "generated_at": "2026-05-12T11:45:00+02:00",
-  "sections": [
-    {
-      "emoji": "🇫🇷",
-      "title": "L'ACTUALITÉ IA EN FRANCE",
-      "items": [
-        {"text": "OpsMill lève 12M€ pour devenir la colonne vertébrale des infrastructures pilotées par l'IA", "source": "Maddyness", "url": "https://www.maddyness.com/2026/05/07/opsmill-leve-12-millions-deuros-pour-devenir-la-colonne-vertebrale-des-infrastructures-pilotees-par-lia/"},
-        {"text": "Cisco lance le \"Cisco Scale Hub\" à Station F : accélérateur 6 mois pour startups IA agentique et multi-agents", "source": "Maddyness", "url": "https://www.maddyness.com/2026/05/07/cisco-sinstalle-a-station-f-pour-aider-les-startups-ia-a-prendre-leur-envol/"},
-        {"text": "Spotify lance son DJ virtuel alimenté par IA en France", "source": "JDN", "url": ""},
-        {"text": "La France reste 5e mondiale en diffusion IA générative : 47,8% des actifs utilisent des outils IA, +3,8 pts en un trimestre", "source": "Microsoft/EMEA", "url": "https://news.microsoft.com/source/emea/features/ai-diffusion/?lang=fr"}
-      ]
-    },
-    {
-      "emoji": "🌍",
-      "title": "L'ACTUALITÉ IA À L'INTERNATIONAL",
-      "items": [
-        {"text": "Anthropic atteint 30 milliards $ de run rate après une croissance 80x YoY", "source": "VentureBeat", "url": "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth"},
-        {"text": "Google déjoue une tentative de hackers utilisant l'IA pour une exploitation de masse : premier zero-day développé par IA documenté", "source": "CNBC", "url": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html"},
-        {"text": "Nvidia a investi +40 milliards $ dans des entreprises IA depuis janvier 2026", "source": "JDN", "url": ""},
-        {"text": "\"La plus grande transformation organisationnelle depuis la révolution industrielle\" : l'IA bouleverse les boards selon McKinsey", "source": "CNBC", "url": "https://www.cnbc.com/2026/05/11/heres-how-artificial-intelligence-is-changing-boardrooms.html"}
-      ]
-    },
-    {
-      "emoji": "🚀",
-      "title": "LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES QUI FONT PARLER",
-      "items": [
-        {"text": "Broadridge déploie l'IA agentique à l'échelle institutionnelle sur Wall Street : -30% de coûts opérationnels dès le 1er jour", "source": "Agent Pulse", "url": "https://www.prnewswire.com/news-releases/broadridge-deploys-agentic-ai-at-institutional-scale-across-capital-markets-and-wealth-operations-302767688.html"},
-        {"text": "Circle lance Agent Stack : wallets IA + nano-paiements USDC ($0,000001) — les stablecoins deviennent les rails financiers des agents IA", "source": "Agent Pulse", "url": "https://www.circle.com/pressroom/circle-launches-ai-infrastructure-to-power-the-agentic-economy"},
-        {"text": "Alibaba intègre Qwen dans Taobao : shopping agentique par conversation sur 4 milliards de produits", "source": "Alibaba Cloud", "url": "https://www.alibabacloud.com/blog/alibaba-opens-all-of-taobao-to-qwen-ai-ushering-in-a-new-agentic-shopping-experience_603104"},
-        {"text": "Higgsfield Virality Predictor : IA qui prédit le score viral, hook score, taux de rétention et activation cérébrale simulée d'une vidéo avant publication", "source": "JDN", "url": ""},
-        {"text": "Google prépare Gemini Omni (modèle unifié texte/image/audio/vidéo) pour Google I/O ; OpenAI lance 3 modèles vocaux avec raisonnement temps réel", "source": "JDN", "url": ""}
-      ]
-    },
-    {
-      "emoji": "🤩",
-      "title": "LES DINGUERIES DU MOMENT (Reddit / Hacker News)",
-      "items": [
-        {"text": "Première utilisation documentée de l'IA pour développer un exploit zero-day en conditions réelles — déjoué par Google TIG avant une exploitation de masse", "source": "CNBC/Google TIG", "url": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html"},
-        {"text": "Faux repo Hugging Face se hisse dans les trending en imitant un modèle OpenAI pour diffuser un infostealer Rust sur Windows", "source": "The Hacker News", "url": "https://thehackernews.com/"},
-        {"text": "Paperasse : projet open source avec 6 agents IA spécialisés (comptable, notaire, fiscaliste, syndic, contrôleur fiscal, commissaire aux comptes) pour automatiser la fiscalité française", "source": "JDN", "url": ""}
-      ]
-    },
-    {
-      "emoji": "🎭",
-      "title": "COULISSES & CONTROVERSES",
-      "items": [
-        {"text": "xAI en crise : tous les co-fondateurs ont quitté la société, licenciements massifs, SpaceX en passe d'acquérir Cursor pour 60Mds$ pour sauver la division coding", "source": "Futurism/Bloomberg", "url": "https://futurism.com/artificial-intelligence/elon-musk-orders-layoffs-xai-coding"},
-        {"text": "Sam Altman et Dario Amodei alertent conjointement sur les risques sociaux destructeurs de l'IA", "source": "JDN", "url": ""},
-        {"text": "Anthropic vs Pentagone : la crise de l'\"IA autoritaire\" — tensions sur l'usage militaire et politique de l'IA", "source": "Platformer", "url": "https://www.platformer.news/anthropic-pentagon-authoritarian-ai/"},
-        {"text": "Les IA de prise de notes et le secret professionnel : question éthique montante dans les métiers réglementés", "source": "JDN", "url": ""}
-      ]
-    }
-  ],
-  "email_count": 4
-}
+Je vais effectuer 5 recherches web pour compléter ma veille IA des dernières 24h.
+
+**Recherche 1 : Actualité IA France dernières 24h**
+
+**Recherche 2 : AI news international last 24 hours**
+
+**Recherche 3 : AI product launches features May 2025**
+
+**Recherche 4 : Reddit Hacker News AI viral projects May 2025**
+
+**Recherche 5 : AI controversies debates May 2025**
+
+---
+
+# 🗞️ VEILLE IA DU JOUR — 16 Mai 2025
+
+---
+
+## 🇫🇷 L'ACTUALITÉ IA EN FRANCE
+
+**Harvey, licorne US de l'IA juridique, ouvre un bureau à Paris** — La startup américaine valorisée à plusieurs milliards poursuit son expansion européenne en s'implantant dans la capitale française, ciblant les grands cabinets d'avocats.
+— Source: Maddyness — 🔗 maddyness.com
+
+**OpsMill lève 12 millions d'euros pour l'infrastructure IA** — La startup française ambitionne de devenir "la colonne vertébrale des infrastructures pilotées par l'IA" avec ce nouveau tour de table.
+— Source: Maddyness — 🔗 maddyness.com
+
+**LegalPlace rachète Legalstart pour 70M€** — Consolidation majeure dans la legaltech française dopée à l'IA, créant un géant des services juridiques en ligne.
+— Source: Les Echos — 🔗 lesechos.fr
+
+**Mistral visé par une attaque supply chain** — Un faux paquet "mistralai" malveillant a été découvert, ciblant les développeurs utilisant les outils de la licorne française.
+— Source: BDM — 🔗 blogdumoderateur.com
+
+---
+
+## 🌍 L'ACTUALITÉ IA À L'INTERNATIONAL
+
+**74% des entreprises ont dû faire marche arrière sur leurs agents IA en production** — Étude choc révélant les difficultés massives de déploiement des agents autonomes en environnement réel.
+— Source: AI News — 🔗 artificialintelligence-news.com
+
+**Amazon transforme Alexa en couche shopping agentique** — L'assistant vocal devient un agent capable d'effectuer des achats de manière autonome pour l'utilisateur.
+— Source: The Rundown AI — 🔗 therundown.ai
+
+**Wall Street déploie des agents promettant 30% de réduction des coûts dès J1** — Les grandes banques accélèrent l'adoption d'agents IA pour automatiser leurs workflows.
+— Source: AI News — 🔗 artificialintelligence-news.com
+
+**Anthropic lance 10 agents IA pour remplacer les workflows de Wall Street** — Offensive majeure d'Anthropic sur le marché finance avec une suite d'agents spécialisés.
+— Source: The Rundown AI — 🔗 therundown.ai
+
+**Google et Solana donnent un portefeuille crypto aux agents IA** — Les agents peuvent désormais détenir et dépenser de l'argent de manière autonome via la blockchain.
+— Source: Crypto AI Daily — 🔗 decrypt.co
+
+---
+
+## 🚀 LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES
+
+**Claude Code double ses limites de tokens** — Anthropic augmente significativement les capacités de son outil de coding, avec un nouveau mode "Dream" également lancé.
+— Source: BDM — 🔗 blogdumoderateur.com
+
+**Cursor active le mode Fast pour Claude Opus** — L'IDE IA populaire optimise ses performances avec le modèle le plus puissant d'Anthropic.
+— Source: BDM — 🔗 blogdumoderateur.com
+
+**OpenAI déploie GPT-5.5 Instant** — Nouvelle version accélérée du modèle phare, visant les cas d'usage temps réel.
+— Source: AI newsletters — 🔗 openai.com
+
+**Codex peut maintenant agir dans Chrome** — L'agent d'OpenAI gagne la capacité de naviguer et interagir avec le web.
+— Source: The Rundown AI — 🔗 therundown.ai
+
+**Google présente Gemini Intelligence** — Nouvelle suite d'outils intégrant Gemini pour l'analyse et la décision en entreprise.
+— Source: Google Blog — 🔗 blog.google
+
+**Circle permet les paiements à 0.000001$** — Infrastructure de micropaiements pour permettre aux agents IA de réaliser des transactions infimes.
+— Source: Crypto News — 🔗 circle.com
+
+---
+
+## 🤩 LES DINGUERIES DU MOMENT
+
+**Mike OSS : un avocat crée en 2 semaines ce que des startups vendent des millions** — Un juriste a développé en solo un outil IA juridique open source rivalisant avec les solutions commerciales. La communauté s'enflamme.
+— Source: Reddit/HackerNews — 🔗 github.com
+
+**L'IA prédit la liste de Deschamps 3 jours avant l'annonce officielle** — Un modèle a correctement anticipé la sélection de l'équipe de France pour la Coupe du Monde 2026.
+— Source: Maddyness — 🔗 maddyness.com
+
+**"J'ai testé l'app IA santé la plus avancée"** — Retour viral sur une application capable d'analyses médicales poussées, soulevant questions éthiques et enthousiasme.
+— Source: Newsletters tech — 🔗 therundown.ai
+
+**Entraîner des agents IA en temps réel** — Nouvelle méthode permettant l'apprentissage continu d'agents pendant leur utilisation, sans interruption.
+— Source: HackerNews — 🔗 news.ycombinator.com
+
+---
+
+## 🎭 COULISSES & CONTROVERSES
+
+**Marché des agents IA à 100 milliards $ : bulle ou révolution ?** — Alors que 74% des projets échouent en production, les valorisations s'envolent. Débat intense sur la maturité réelle de la technologie.
+— Source: AI Industry Analysis — 🔗 artificialintelligence-news.com
+
+**Les agents IA avec portefeuilles : qui est responsable ?** — La capacité des agents à dépenser de l'argent soulève des questions juridiques majeures non résolues.
+— Source: Decrypt — 🔗 decrypt.co
+
+**Éric Larchevêque arrête déjà l'activité bitcoin de The Bitcoin Society** — Le fondateur de Ledger met fin à son projet de trésorerie BTC quelques mois après son lancement médiatisé.
+— Source: Maddyness — 🔗 maddyness.com
+
+**Alerte : les faillites tech dépassent désormais les exits** — Signal inquiétant pour l'écosystème startup, y compris IA, avec plus de fermetures que de succès.
+— Source: Maddyness — 🔗 maddyness.com
+
+---
+
+*Veille compilée le 16 mai 2025*
