@@ -1,1 +1,52 @@
-{"date":"2026-05-15","generated_at":"2026-05-15T11:09:00+02:00","sections":[{"emoji":"FR","title":"ACTUALITE IA EN FRANCE","items":[{"text":"La France confirme sa 5e place mondiale dans la diffusion de lIA generative — 47,8% des actifs utilisent des outils IA","source":"Microsoft/YouGov","url":"https://news.microsoft.com/source/emea/features/ai-diffusion/"},{"text":"Eric Larcheveque met fin a lactivite de tresorerie bitcoin de The Bitcoin Society","source":"Maddyness","url":"https://www.maddyness.com"},{"text":"Un nouveau College de lIA ouvre a Paris 1 Pantheon-Sorbonne des la rentree 2026","source":"ia-info.fr","url":"https://www.ia-info.fr"}]},{"emoji":"INT","title":"ACTUALITE IA INTERNATIONALE","items":[{"text":"Novo Nordisk sAllie a OpenAI pour integrer lIA dans toute sa chaine medicaments et supply chain","source":"crescendo.ai","url":"https://www.crescendo.ai/news/latest-ai-news-and-updates"},{"text":"JPMorgan Chase reclasse ses investissements IA en infrastructure core — budget 2026 de 19,8 milliards$","source":"AI News","url":"https://www.artificialintelligence-news.com"},{"text":"Les gouvernements USA poussent Microsoft et xAI a fournir un acces anticipe de leurs modeles aux regulateurs","source":"imfounder.com","url":"https://imfounder.com/science-tech/ai/ai-updates-may-2026/"}]},{"emoji":"LAUNCH","title":"LES SORTIES QUI FONT PARLER","items":[{"text":"Amazon transforme Alexa en agent d achat autonome","source":"Agent Pulse","url":"https://agentpulse.beehiiv.com"},{"text":"Claude for Small Business sintegre a QuickBooks PayPal HubSpot Canva DocuSign avec 15 workflows","source":"crescendo.ai","url":"https://www.crescendo.ai/news/latest-ai-news-and-updates"},{"text":"GPT-5.2 introduit le raisonnement adaptatif a 187 tokens par seconde","source":"aixploria.com","url":"https://www.aixploria.com/en/last-ai/"}]},{"emoji":"WOW","title":"LES DINGUERIES DU MOMENT","items":[{"text":"74% des entreprises ont fait marche arriere sur leurs agents IA en production","source":"Agent Pulse","url":"https://agentpulse.beehiiv.com"},{"text":"Debat viral sur HN Why is everyone here so AI-hyped","source":"Hacker News","url":"https://news.ycombinator.com/item?id=46965731"},{"text":"Ask HN Who wants to be fired — fil sur anxiete des devs face a lIA","source":"Hacker News","url":"https://news.ycombinator.com/item?id=47979898"}]},{"emoji":"CONTRO","title":"COULISSES ET CONTROVERSES","items":[{"text":"70% des Americains opposes aux data centers IA selon Gallup — Sanders alerte sur 400M$ dans les elections 2026","source":"Democracy Now","url":"https://www.democracynow.org/2026/5/13/astra_taylor_ai_data_centers_backlash"},{"text":"Google stoppe une cyberattaque IA exploitant des vulnerabilites zero-day","source":"Fortune","url":"https://fortune.com/2026/05/12/google-hackers-using-ai-to-weaponize-zero-day-vulnerabilities/"},{"text":"Anthropic retarde son modele Mythos par crainte dexploitation malveillante","source":"crescendo.ai","url":"https://www.crescendo.ai/blog/ai-controversies"}]}],"email_count":4}
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:15:00+02:00",
+  "sections": [
+    {
+      "emoji": "🇫🇷",
+      "title": "L'ACTUALITÉ IA EN FRANCE",
+      "items": [
+        { "text": "La France se classe 5e mondiale en adoption de l'IA avec 47,8% d'entreprises utilisatrices, selon une étude Eurostat publiée cette semaine.", "source": "Maddyness", "url": "https://www.maddyness.com" },
+        { "text": "Collège IA Paris 1 : lancement d'une nouvelle formation certifiante destinée aux professionnels souhaitant monter en compétences sur l'IA.", "source": "Maddyness", "url": "https://www.maddyness.com" },
+        { "text": "Les PME françaises ralentissent sur l'IA : freins réglementaires, manque de compétences internes et coûts d'intégration freinent l'adoption en entreprise.", "source": "AI News FR", "url": "https://ainews.fr" }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "title": "L'ACTUALITÉ IA À L'INTERNATIONAL",
+      "items": [
+        { "text": "Google I/O 2026 prévu le 19 mai — Gemini 4.0, Android 17 et nouveaux appareils Googlebooks très attendus après l'Android Show de cette semaine.", "source": "The Rundown AI", "url": "https://therundown.ai" },
+        { "text": "Android Show : Google a annoncé Googlebooks (laptops natifs Gemini) et Gemini Intelligence, une suite de capacités IA avancées pour ses appareils.", "source": "The Rundown AI", "url": "https://therundown.ai" },
+        { "text": "Anthropic face à un blocage politique à Washington : la réglementation du modèle Mythos piétine sous la pression des lobbyistes tech.", "source": "Agent Pulse", "url": "https://agentpulse.ai" }
+      ]
+    },
+    {
+      "emoji": "🚀",
+      "title": "LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES QUI FONT PARLER",
+      "items": [
+        { "text": "Googlebooks : premiers laptops construits nativement pour Gemini, annoncés lors de l'Android Show — disponibles avant Google I/O.", "source": "Google", "url": "https://blog.google" },
+        { "text": "Gemini dans Chrome : navigation agentique permettant à l'IA d'agir directement dans le navigateur web (remplissage de formulaires, réservations, recherches).", "source": "Google", "url": "https://blog.google" },
+        { "text": "Android 17 : nouvelle version annoncée avec intégration Gemini profonde, IA on-device renforcée et nouvelles API pour développeurs.", "source": "Google", "url": "https://blog.google" }
+      ]
+    },
+    {
+      "emoji": "🤩",
+      "title": "LES DINGUERIES DU MOMENT (Reddit / Hacker News)",
+      "items": [
+        { "text": "1 million de services IA exposés publiquement ont été scannés : les résultats révèlent des vulnérabilités critiques dans des déploiements d'agents autonomes — le fil HN explose.", "source": "Hacker News", "url": "https://news.ycombinator.com" },
+        { "text": "ClawdBot : ce robot IA accumule 2,6 nouvelles CVEs par jour en moyenne, nouveau record absolu de surface d'attaque pour un produit IA.", "source": "r/netsec", "url": "https://reddit.com/r/netsec" },
+        { "text": "Des lycéens ont construit un outil de hacking avancé avec ChatGPT en quelques heures, ciblant des infrastructures scolaires — démontrant l'accessibilité inquiétante des cyberattaques assistées par IA.", "source": "404 Media", "url": "https://404media.co" }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "title": "COULISSES & CONTROVERSES",
+      "items": [
+        { "text": "Deepfake politique en France : une fausse couverture du magazine Closer mettant en scène Yaël Braun-Pivet, générée par IA, a circulé massivement sur les réseaux — enquête ouverte.", "source": "Le Monde", "url": "https://lemonde.fr" },
+        { "text": "Blocage à la Maison Blanche : la réglementation du modèle Mythos d'Anthropic reste en suspens après plusieurs semaines de lobbying intense des géants tech contre toute contrainte.", "source": "Platformer", "url": "https://platformer.news" },
+        { "text": "Crise Grok : le chatbot d'xAI est massivement utilisé pour créer des deepfakes de harcèlement, sans que xAI ne prenne de mesures significatives pour y remédier.", "source": "The Verge", "url": "https://theverge.com" }
+      ]
+    }
+  ],
+  "email_count": 4
+}
