@@ -1,52 +1,53 @@
 {
-  "date": "2026-05-16",
-  "generated_at": "2026-05-16T09:15:00+02:00",
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T09:30:00+02:00",
   "sections": [
     {
       "emoji": "🇫🇷",
       "title": "L'ACTUALITÉ IA EN FRANCE",
       "items": [
-        { "text": "La France se classe 5e mondiale en adoption de l'IA avec 47,8% d'entreprises utilisatrices, selon une étude Eurostat publiée cette semaine.", "source": "Maddyness", "url": "https://www.maddyness.com" },
-        { "text": "Collège IA Paris 1 : lancement d'une nouvelle formation certifiante destinée aux professionnels souhaitant monter en compétences sur l'IA.", "source": "Maddyness", "url": "https://www.maddyness.com" },
-        { "text": "Les PME françaises ralentissent sur l'IA : freins réglementaires, manque de compétences internes et coûts d'intégration freinent l'adoption en entreprise.", "source": "AI News FR", "url": "https://ainews.fr" }
+        { "text": "La France conserve sa 5e place mondiale en adoption de l'IA générative avec 47,8% des travailleurs utilisateurs, en hausse de 3,8 points ce trimestre.", "source": "Microsoft/Eurostat", "url": "https://news.microsoft.com/source/emea/features/ai-diffusion/" },
+        { "text": "Collège IA Paris 1 Panthéon-Sorbonne : ouverture officielle à la rentrée 2026, formation certifiante IA pour étudiants et professionnels.", "source": "Usine Digitale", "url": "https://www.usine-digitale.fr/intelligence-artificielle/" },
+        { "text": "VivaTech 2026 confirmé du 17 au 20 juin à Paris — 10e édition avec un focus massif sur l'IA agentique et les LLMs en entreprise.", "source": "VivaTech", "url": "https://vivatech.co" }
       ]
     },
     {
       "emoji": "🌍",
       "title": "L'ACTUALITÉ IA À L'INTERNATIONAL",
       "items": [
-        { "text": "Google I/O 2026 prévu le 19 mai — Gemini 4.0, Android 17 et nouveaux appareils Googlebooks très attendus après l'Android Show de cette semaine.", "source": "The Rundown AI", "url": "https://therundown.ai" },
-        { "text": "Android Show : Google a annoncé Googlebooks (laptops natifs Gemini) et Gemini Intelligence, une suite de capacités IA avancées pour ses appareils.", "source": "The Rundown AI", "url": "https://therundown.ai" },
-        { "text": "Anthropic face à un blocage politique à Washington : la réglementation du modèle Mythos piétine sous la pression des lobbyistes tech.", "source": "Agent Pulse", "url": "https://agentpulse.ai" }
+        { "text": "Google I/O 2026 demain (19 mai) : Gemini Intelligence, Android 17, Android XR glasses et Googlebooks au programme de la keynote à 17h heure française.", "source": "Android Authority", "url": "https://www.androidauthority.com/what-to-expect-from-google-io-2026-3664979/" },
+        { "text": "Cerebras fait une entrée fracassante au Nasdaq avec +68% le premier jour — valorisation à 95 milliards de dollars pour ce fabricant de puces IA.", "source": "CNBC", "url": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html" },
+        { "text": "L'administration Trump reconsidère sa position sur la sécurité IA et envisage des executive actions sur les tests, déploiements et frameworks d'approbation des modèles puissants.", "source": "MarketingProfs", "url": "https://www.marketingprofs.com/opinions/2026/54786/ai-update-may-15-2026-ai-news-and-views-from-the-past-week" }
       ]
     },
     {
       "emoji": "🚀",
       "title": "LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES QUI FONT PARLER",
       "items": [
-        { "text": "Googlebooks : premiers laptops construits nativement pour Gemini, annoncés lors de l'Android Show — disponibles avant Google I/O.", "source": "Google", "url": "https://blog.google" },
-        { "text": "Gemini dans Chrome : navigation agentique permettant à l'IA d'agir directement dans le navigateur web (remplissage de formulaires, réservations, recherches).", "source": "Google", "url": "https://blog.google" },
-        { "text": "Android 17 : nouvelle version annoncée avec intégration Gemini profonde, IA on-device renforcée et nouvelles API pour développeurs.", "source": "Google", "url": "https://blog.google" }
+        { "text": "OpenAI Codex dans ChatGPT mobile : l'agent de coding passe sur smartphone avec 4M+ utilisateurs hebdo, approbations mobiles et contrôle d'environnement distant.", "source": "OpenAI", "url": "https://openai.com/index/work-with-codex-from-anywhere/" },
+        { "text": "xAI lance Grok Build : premier agent de coding d'xAI en beta pour les abonnés SuperGrok Heavy avec CLI inclus — la guerre des coding agents s'intensifie.", "source": "Engadget", "url": "https://www.engadget.com/2173482/xai-coding-agent-grok-build/" },
+        { "text": "WSPN W Agent : skill de paiement en stablecoin permettant aux agents IA de passer commandes et régler des transactions de bout en bout, sans intervention humaine.", "source": "PR Newswire", "url": "https://www.prnewswire.com/news-releases/wspn-launches-w-agent-a-stablecoin-payment-skill-built-for-the-ai-agent-economy-302773209.html" },
+        { "text": "Keycard : identité et contrôles d'accès pour applications multi-agents via OAuth scoped — les agents obtiennent des permissions étroites et révocables.", "source": "IDTechWire", "url": "https://idtechwire.com/keycard-launches-identity-and-access-controls-for-multi-agent-ai-applications/" }
       ]
     },
     {
       "emoji": "🤩",
       "title": "LES DINGUERIES DU MOMENT (Reddit / Hacker News)",
       "items": [
-        { "text": "1 million de services IA exposés publiquement ont été scannés : les résultats révèlent des vulnérabilités critiques dans des déploiements d'agents autonomes — le fil HN explose.", "source": "Hacker News", "url": "https://news.ycombinator.com" },
-        { "text": "ClawdBot : ce robot IA accumule 2,6 nouvelles CVEs par jour en moyenne, nouveau record absolu de surface d'attaque pour un produit IA.", "source": "r/netsec", "url": "https://reddit.com/r/netsec" },
-        { "text": "Des lycéens ont construit un outil de hacking avancé avec ChatGPT en quelques heures, ciblant des infrastructures scolaires — démontrant l'accessibilité inquiétante des cyberattaques assistées par IA.", "source": "404 Media", "url": "https://404media.co" }
+        { "text": "Fin Operator (Intercom) : un agent IA qui surveille, analyse et améliore un autre agent IA de support client. Un travail qui prenait des heures est réduit à 10 minutes.", "source": "VentureBeat", "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent" },
+        { "text": "\"La course pour construire le Stripe des agents IA est lancée\" — WSPN, Keycard, Airia : trois nouvelles couches d'infrastructure pour l'économie agentique en une seule journée.", "source": "Agent Pulse", "url": "https://agentpulse.beehiiv.com/p/the-race-to-build-stripe-for-ai-agents-is-on" },
+        { "text": "HN debate : \"Quand la viralité est le message\" — l'ère de la propagande IA virale inquiète de plus en plus les chercheurs. Les élections 2028 en ligne de mire.", "source": "Hacker News", "url": "https://news.ycombinator.com/item?id=47661231" }
       ]
     },
     {
       "emoji": "🎭",
       "title": "COULISSES & CONTROVERSES",
       "items": [
-        { "text": "Deepfake politique en France : une fausse couverture du magazine Closer mettant en scène Yaël Braun-Pivet, générée par IA, a circulé massivement sur les réseaux — enquête ouverte.", "source": "Le Monde", "url": "https://lemonde.fr" },
-        { "text": "Blocage à la Maison Blanche : la réglementation du modèle Mythos d'Anthropic reste en suspens après plusieurs semaines de lobbying intense des géants tech contre toute contrainte.", "source": "Platformer", "url": "https://platformer.news" },
-        { "text": "Crise Grok : le chatbot d'xAI est massivement utilisé pour créer des deepfakes de harcèlement, sans que xAI ne prenne de mesures significatives pour y remédier.", "source": "The Verge", "url": "https://theverge.com" }
+        { "text": "Attaque contre Sam Altman : un homme de 20 ans a lancé un cocktail Molotov contre sa maison avant de menacer de tuer tout le monde au siège d'OpenAI. Signe d'une montée de la violence anti-IA.", "source": "Platformer", "url": "https://www.platformer.news/openai-pentagon-surveillance-drones-backlash/" },
+        { "text": "GPT au service de l'armée : des questions émergent sur l'utilisation de modèles GPT dans des opérations de surveillance, drones militaires et raids ICE — sans débat public.", "source": "Platformer", "url": "https://www.platformer.news/anthropic-pentagon-authoritarian-ai/" },
+        { "text": "Grok et les deepfakes : xAI's Grok utilisé pour générer plus de 200 deepfakes sexualisés d'une même femme sans que xAI ne prenne de mesures concrètes.", "source": "404 Media", "url": "https://www.404media.co/your-ai-use-is-breaking-my-brain/" }
       ]
     }
   ],
-  "email_count": 4
+  "email_count": 2
 }
