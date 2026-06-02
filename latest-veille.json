@@ -1,25 +1,30 @@
 {
-  "date": "2026-06-01",
-  "generated_at": "2026-06-01T08:00:00+02:00",
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T07:00:00+02:00",
   "sections": [
     {
       "emoji": "🇫🇷",
       "title": "L'ACTUALITÉ IA EN FRANCE",
       "items": [
         {
-          "text": "GV (le fonds de capital-risque de Google) investit pour la première fois dans une startup française : MokN, spécialisée en cybersécurité, boucle un tour de table de 15 millions de dollars avec GV à son capital. Une première historique qui marque l'intérêt croissant de la Silicon Valley pour l'écosystème tech français.",
-          "source": "Maddynews",
-          "url": "https://www.maddyness.com"
+          "text": "SoftBank s'engage à investir 75 milliards d'euros en France pour construire 5 GW de capacité de data centers dédiés à l'IA — la plus grande infrastructure IA d'Europe, annoncée au sommet Choose France. Les premiers sites (Dunkerque, Bosquel, Bouchain) seront opérationnels entre 2028 et 2031.",
+          "source": "Siècle Digital / Euronews",
+          "url": "https://siecledigital.fr/2026/06/01/softbank-engage-75-milliards-deuros-pour-faire-de-la-france-une-place-forte-de-lia/"
         },
         {
-          "text": "La France maintient sa 5e place mondiale dans le classement de diffusion de l'IA générative : 47,8 % des Français en âge de travailler utilisent désormais des outils d'IA générative (+3,8 pts sur le trimestre). Pour la première fois, les usages personnels (48 %) surpassent les usages professionnels (42 %), selon un sondage mené auprès de 3 801 Français en mai 2026.",
-          "source": "Microsoft / Nation.fr",
-          "url": "https://news.microsoft.com/source/emea/features/ai-diffusion/?lang=fr"
+          "text": "L'École Polytechnique lance une chaire IA avec Campus IA, Mistral, Orange et Nvidia — avec un axe fort sur la robotique. La contradiction est notée : construire la souveraineté IA européenne avec de l'infrastructure américaine.",
+          "source": "SocIAty.io",
+          "url": "https://sociaty.io/"
         },
         {
-          "text": "Claude Opus 4.6 « thinking » repasse en tête du classement général Chatbot Arena en mai 2026, confirmant la montée en puissance d'Anthropic face à OpenAI et Google sur les benchmarks d'évaluation humaine.",
-          "source": "Business-IA",
-          "url": "https://business-ia.com/top-ia-2026-2/"
+          "text": "92 % des étudiants français utilisent l'IA, mais avec ambivalence : les normaliens l'utilisent en cachette, entre honte et angoisse existentielle. Un rapport du Grand Continent révèle le fossé entre grandes écoles littéraires (perçu comme menace) et écoles de data/stats (usage assumé).",
+          "source": "SocIAty.io / Le Grand Continent",
+          "url": "https://sociaty.io/"
+        },
+        {
+          "text": "La Fondation Linux lance DNS-AID, un projet open source pour organiser l'identification et les échanges entre agents IA — une sorte de DNS pour le monde agentique.",
+          "source": "Semaine IA - Revue Fiduciaire",
+          "url": "https://www.revue-fiduciaire.com/actualite/article/semaine-de-l-intelligence-artificielle-du-1er-au-5-juin-2026"
         }
       ]
     },
@@ -28,24 +33,24 @@
       "title": "L'ACTUALITÉ IA À L'INTERNATIONAL",
       "items": [
         {
-          "text": "Anthropic clôture un tour de table à plus de 30 milliards de dollars pour une valorisation supérieure à 900 milliards — dépassant OpenAI et devenant la startup privée la plus valorisée au monde en IA. Son ARR dépasse désormais 30 milliards de dollars, soit un triplement en moins de 5 mois.",
-          "source": "BuildFastWithAI",
-          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-may-31-2026"
+          "text": "Premier cyberattaque entièrement orchestrée par un agent LLM documentée par Sysdig : l'agent a récolté des credentials, récupéré des clés SSH sur AWS Secrets Manager et exfiltré une base PostgreSQL complète — en moins d'une heure, sans aucune intervention humaine.",
+          "source": "TechTimes / Sysdig",
+          "url": "https://www.techtimes.com/articles/317423/20260530/ai-vs-ai-cybersecurity-sysdig-documents-first-llm-agent-intrusion-wild.htm"
         },
         {
-          "text": "Microsoft dévoilera une suite de modèles IA maison lors de Build 2026 (2-3 juin, San Francisco) : un modèle spécialisé en code pour renforcer GitHub Copilot, et de nouveaux modèles pour la transcription, le raisonnement, la voix et les images — signalant l'ambition de Microsoft de réduire sa dépendance à OpenAI.",
-          "source": "AI News Weekly Summary",
-          "url": "https://earezki.com/ai-news/weekly-summary-2026-05-31/"
+          "text": "Apple prépare pour la WWDC (8 juin) un Siri entièrement reconstruit, alimenté par un modèle custom basé sur Gemini de Google — un virage stratégique majeur qui marque la fin du Siri originel.",
+          "source": "AI News Briefs - Radical Data Science",
+          "url": "https://radicaldatascience.wordpress.com/2026/06/01/ai-news-briefs-bulletin-board-for-june-2026/"
         },
         {
-          "text": "OpenAI publie son Frontier Governance Framework (29 mai) : un document public expliquant comment ses pratiques de sécurité s'alignent sur deux régimes réglementaires majeurs — la California TFAIA et le Code of Practice de l'EU AI Act.",
-          "source": "Hacker News / OpenAI",
-          "url": "https://news.ycombinator.com/front"
+          "text": "GitHub Copilot passe au billing basé sur l'usage à partir du 1er juin 2026 : tous les plans incluent désormais un pool mensuel de crédits IA consommés selon les tokens réels utilisés.",
+          "source": "AI News Today - unrot.co",
+          "url": "https://unrot.co/blogs/ai-news-today-top-10-ai-stories-june-1-2026"
         },
         {
-          "text": "Le Pape Léon XIV publie l'encyclique « Magnifica Humanitas » (mai 2026), premier texte papal consacré à l'IA, avertissant que le développement technologique non encadré pourrait rendre la société « moins humaine » en concentrant le pouvoir entre les mains des élites politiques et corporatives.",
-          "source": "Crescendo AI",
-          "url": "https://www.crescendo.ai/blog/ai-controversies"
+          "text": "Tempus lance la prochaine génération de Lens, une plateforme agentique pour la R&D en oncologie : les agents IA orchestrent des workflows scientifiques complexes avec accès aux données et à la littérature médicale.",
+          "source": "Agent Pulse / Tempus",
+          "url": "https://www.tempus.com/news/pr/tempus-unveils-the-next-generation-of-lens-expanding-its-agentic-ai-platform-for-oncology-drug-development/"
         }
       ]
     },
@@ -54,24 +59,24 @@
       "title": "LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES QUI FONT PARLER",
       "items": [
         {
-          "text": "Google lance Gemini Spark (29 mai, US) : un agent IA personnel capable de raisonner à travers vos applications connectées, prendre des actions en votre nom et tourner en arrière-plan toute la journée — disponible pour les abonnés Google AI Ultra. Google Antigravity, sa plateforme agent-first issue de Google I/O, remplace Gemini CLI et Gemini Code Assist.",
-          "source": "Promptailearning / Open-Lead",
-          "url": "https://promptailearning.com/blogs/top-5-ai-news-may-30-2026"
+          "text": "Nvidia lance RTX Spark au Computex 2026 : une puce Arm + GPU Blackwell + 128 Go de RAM unifiée, conçue pour faire tourner des agents IA directement sur PC et laptop — sans cloud. Dell, HP, Lenovo, Microsoft Surface et ASUS l'intégreront dès l'automne 2026.",
+          "source": "Tom's Hardware / TechRadar",
+          "url": "https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory"
         },
         {
-          "text": "Anthropic sort Claude Opus 4.8 le 28 mai, seulement 42 jours après Opus 4.7 — cadence record pour la gamme Opus. Le mode Fast tourne à 2,5x la vitesse d'inférence standard pour 3x moins cher. Opus 4.8 est aussi 4x moins susceptible de laisser passer des bugs dans son propre code sans les signaler.",
-          "source": "BuildFastWithAI",
-          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-may-31-2026"
+          "text": "Nvidia Vera Rubin entre en production mondiale : le superordinateur multi-racks pour 'AI factories' agentiques est adopté en premier par OpenAI, Anthropic et SpaceX. Nvidia présente aussi Vera, une nouvelle architecture CPU conçue spécifiquement pour les agents IA (1,8x plus rapide que les x86).",
+          "source": "Agent Pulse / GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/06/01/3303979/0/en/nvidia-vera-rubin-ramps-into-full-production-to-power-agentic-ai-factories-worldwide.html"
         },
         {
-          "text": "Microsoft Work IQ est lancé : le modèle comprend votre contexte de travail (emails, calendrier, fichiers) et anticipe vos besoins professionnels. GPT-5.5 se positionne comme agent proactif capable d'exécuter des tâches complexes avec un minimum d'instructions.",
-          "source": "MeltOne / Wadeswatch",
-          "url": "https://www.wadeswatch.com/news-about-artificial-intelligence-may-2026-round-up/"
+          "text": "MiniMax annonce M3, un modèle open source avec 1 million de tokens de contexte, optimisé pour le code et l'agentique — disponible via API immédiatement, sur Hugging Face dans la semaine.",
+          "source": "Journal du Net IA",
+          "url": "https://www.journaldunet.com/"
         },
         {
-          "text": "Les Magic Layers (Calques Magiques) de Canva, annoncés en bêta en mars, sont officiellement disponibles en français — une fonctionnalité IA de design multicouche très attendue par les équipes créatives francophones.",
-          "source": "Open-Lead",
-          "url": "https://open-lead.com/mise-a-jour-ia-du-1er-mai-2026-dernieres-actualites-et-analyses-de-la-semaine-ecoulee/"
+          "text": "Nvidia open source Cosmos 3, son modèle de world model pour robots et véhicules autonomes. En parallèle, Nvidia publie un catalogue officiel de skills pour agents IA.",
+          "source": "Journal du Net IA",
+          "url": "https://huggingface.co/"
         }
       ]
     },
@@ -80,19 +85,24 @@
       "title": "LES DINGUERIES DU MOMENT (Reddit / Hacker News)",
       "items": [
         {
-          "text": "Anthropic vaut maintenant plus que $900 milliards — sur Hacker News, la communauté s'interroge : la startup qui refusait la militarisation de l'IA est désormais plus valorisée qu'OpenAI. Certains y voient la revanche de l'approche « safety-first ».",
-          "source": "Hacker News",
-          "url": "https://news.ycombinator.com/front"
+          "text": "OpenClaw, agent IA open source devenu viral (135 000 étoiles GitHub), déclenche la première grande crise de sécurité agentique de 2026 : vulnérabilités critiques, exploits marketplace, et plus de 21 000 instances exposées sans protection.",
+          "source": "RAIL / Penligent AI",
+          "url": "https://responsibleailabs.ai/knowledge-hub/articles/ai-agent-safety-2026"
         },
         {
-          "text": "Project Glasswing : Claude Mythos Preview et ~50 organisations partenaires ont identifié plus de 10 000 vulnérabilités critiques dans des logiciels open-source majeurs en seulement 30 jours — dont 6 202 classifiées comme « critiques ». Un exploit de sécurité IA qui fait beaucoup parler sur les forums tech.",
-          "source": "BuildFastWithAI",
-          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-may-31-2026"
+          "text": "Des chercheurs ont greffé du quantique sur un LLM de Meta avec seulement 6 000 paramètres supplémentaires sur 8 milliards — preuve de concept que l'hybridation quantique-classique n'est plus de la SF, mais une voie concrète.",
+          "source": "SocIAty.io",
+          "url": "https://sociaty.io/"
         },
         {
-          "text": "AgentPulse newsletter titre « A New Class of Worker Is Quietly Showing Up Everywhere » (1er juin) : les agents IA silencieux s'infiltrent dans les workflows d'entreprise sans que les directions IT ne le sachent vraiment — une réalité qui fait débat entre enthousiasme et inquiétude dans les communautés tech.",
-          "source": "AgentPulse",
-          "url": "https://agentpulse.beehiiv.com"
+          "text": "Claude Opus 4.7 (et sa version 'thinking') domine le leaderboard du code en juin 2026, reléguant OpenAI hors du top 10. Alibaba fait une rentrée fracassante avec un nouveau modèle dans le top 5.",
+          "source": "Blog du Modérateur",
+          "url": "https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-juin-2026/"
+        },
+        {
+          "text": "COTI lance Private Skills pour agents MCP-compatibles : wallet crypto, messages chiffrés, tokens privés, NFTs et smart contracts en un seul package — l'infrastructure agentique crypto passe du 'les agents peuvent transacter' au 'ils peuvent transacter en privé'.",
+          "source": "Agent Pulse",
+          "url": "https://www.tradingview.com/news/coinmarketcal%3Aa87d745f8094b%3A0-coti-agent-private-skills-31-may-2026/"
         }
       ]
     },
@@ -101,22 +111,22 @@
       "title": "COULISSES & CONTROVERSES",
       "items": [
         {
-          "text": "Grok (xAI) dans la tourmente : Aurora, son modèle de génération d'images, a permis la création d'environ 3 millions d'images sexualisées de personnes réelles en seulement 11 jours. Le Center for Countering Digital Hate parle de « masse de déshabillage numérique ». Une controverse mondiale qui relance les appels à la régulation des modèles génératifs d'images.",
-          "source": "Crescendo AI",
+          "text": "Conflit entre Anthropic et l'administration Trump : la Maison Blanche a ordonné aux agences fédérales de cesser d'utiliser la technologie Anthropic après qu'Anthropic a refusé de retirer les restrictions empêchant Claude d'être utilisé pour de la surveillance de masse ou des armes autonomes sans supervision humaine.",
+          "source": "AI Ethics / AIhub",
+          "url": "https://aihub.org/2026/03/04/top-ai-ethics-and-policy-issues-of-2025-and-what-to-expect-in-2026/"
+        },
+        {
+          "text": "Grok (xAI) sous le feu des critiques internationales : une analyse révèle que des utilisateurs génèrent 6 700 images sexuelles ou deepfakes par heure via la plateforme — 84 fois plus que les 5 premiers sites de deepfakes réunis. L'Indonésie, la Malaisie et les Philippines ont temporairement bloqué l'accès.",
+          "source": "Crescendo AI / DigitalDefynd",
           "url": "https://www.crescendo.ai/blog/ai-controversies"
         },
         {
-          "text": "Les agents IA d'entreprise « frappent le mur de la gouvernance » (titre AgentPulse, 30 mai) : les déploiements accélérés se heurtent aux politiques de compliance, aux DSI et aux régulateurs. Le sujet cristallise les tensions entre les promesses de productivité et les réalités opérationnelles.",
-          "source": "AgentPulse",
-          "url": "https://agentpulse.beehiiv.com"
-        },
-        {
-          "text": "La Maison Blanche dans le viseur : une image altérée par IA d'une militante lors d'une arrestation à Minneapolis a été publiée par des comptes proches de l'administration Trump, déclenchant un scandale sur l'utilisation politique de la manipulation visuelle IA.",
-          "source": "WebProNews",
-          "url": "https://www.webpronews.com/white-house-ai-altered-image-of-activist-ignites-ethics-scandal-in-2026/"
+          "text": "L'IA est impopulaire aux États-Unis : selon une étude citée par le JDN, cette impopularité croissante cause des maux de tête aux Big Tech, alors même que les licenciements liés à l'IA s'accélèrent (92 000 emplois tech perdus depuis début 2026).",
+          "source": "Journal du Net Quotidienne",
+          "url": "https://www.journaldunet.com/"
         }
       ]
     }
   ],
-  "email_count": 6
+  "email_count": 7
 }
