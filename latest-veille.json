@@ -1,1 +1,142 @@
-{"date": "2026-07-03", "generated_at": "2026-07-04T07:00:00+02:00", "sections": [{"emoji": "🇫🇷", "title": "L'ACTUALITÉ IA EN FRANCE", "items": [{"text": "Google AI Overviews & Mode IA arrivent en France cet été — Google a officialisé le déploiement de ses fonctionnalités AI Overviews et Mode IA en France avant le 23 septembre 2026, après un long retard réglementaire. Google s'engage à rémunérer les éditeurs via les droits voisins et à leur donner le contrôle de leur apparition dans les résultats IA.", "source": "Abondance", "url": "https://www.abondance.com/20260630-2528492-google-ai-overviews-arrivee-france-ete.html"}, {"text": "Plan gouvernemental IA : 655 millions € et un assistant souverain pour tous les agents publics d'ici fin 2026 — Le Premier ministre Sébastien Lecornu a présenté un plan à 655 millions d'euros pour accélérer l'IA dans l'État. Un assistant IA unique et souverain a été testé auprès de 10 000 agents depuis décembre 2025 avec 75% de satisfaction. Objectif : déploiement pour tous les fonctionnaires avant la fin de l'année.", "source": "info.gouv.fr", "url": "https://www.info.gouv.fr/actualite/accelerer-l-ia-dans-l-etat-et-au-service-des-francais"}, {"text": "Anthropic en négociations avec Samsung pour fabriquer son propre chip IA — Anthropic est en tractations avancées avec Samsung Electronics comme partenaire de fabrication pour son premier chip IA maison, suivant la stratégie d'OpenAI pour réduire sa dépendance aux fournisseurs de puces existants.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-07-02/anthropic-in-talks-with-samsung-for-custom-ai-chip-information-mr3l34t4"}]}, {"emoji": "🌍", "title": "L'ACTUALITÉ IA À L'INTERNATIONAL", "items": [{"text": "OpenAI propose de céder 5% de son capital au gouvernement américain (~42,6 milliards $) — Sam Altman a suggéré que le gouvernement Trump reçoive 5% du capital d'OpenAI dans un fonds de type \"Alaska Permanent Fund\", dans lequel d'autres labos IA américains (Anthropic, Google, Meta) pourraient aussi contribuer. La manœuvre intervient juste après que Washington a retardé la sortie de GPT-5.6.", "source": "CNBC", "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html"}, {"text": "L'ONU lance la première commission mondiale de gouvernance de l'IA — L'ITU et l'ONU créent l'AI for Good Global Commission, premier organe onusien incluant PDG (Benioff/Salesforce, Jensen Huang/Nvidia, Jassy/Amazon) et chefs d'État (Kagame/Rwanda). Première réunion le 8 juillet à Genève, en parallèle du Dialogue mondial sur la gouvernance IA (6-7 juillet).", "source": "AI Tools Recap", "url": "https://aitoolsrecap.com/Blog/ai-news-july-3-2026"}, {"text": "Meta : le modèle \"Watermelon\" a rattrapé GPT-5.5 selon Alexandr Wang — Le superintelligence chief de Meta affirme que son modèle interne Watermelon (encore en entrainement, avec 10x plus de compute) a atteint les performances de GPT-5.5 sur les benchmarks clés. OpenAI a entre-temps sorti GPT-5.6.", "source": "American Bazaar Online", "url": "https://americanbazaaronline.com/2026/07/03/meta-ai-chief-says-watermelon-model-has-caught-up-to-gpt-5-5-484022/"}, {"text": "Anthropic dépasse OpenAI en revenus annualisés et flirte avec 1 trillion $ de valorisation — Anthropic atteindrait 30-45 milliards $ ARR, surpassant désormais OpenAI en revenus, et se rapproche d'une valorisation de 1 trillion de dollars.", "source": "CNBC / Trending Topics", "url": "https://www.trendingtopics.eu/anthropic-overtakes-openai-in-revenue-hitting-30-billion-run-rate/"}]}, {"emoji": "🚀", "title": "LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES QUI FONT PARLER", "items": [{"text": "Visa intègre des rails de paiement pour les agents IA : première transaction réelle réalisée — Visa et BBVA ont complété la première transaction sécurisée orchestrée par un agent IA en conditions réelles. La plateforme Visa Intelligent Commerce inclut tokenisation, détection de fraude en temps réel et authentification biométrique. Visa prévoit que des millions de consommateurs utiliseront des agents IA pour faire leurs achats d'ici les fêtes 2026.", "source": "PYMNTS.com", "url": "https://www.pymnts.com/news/artificial-intelligence/2026/visa-and-bbva-prove-todays-rails-can-handle-agentic-payments/"}, {"text": "Apple lance un serveur MCP dans Safari Technology Preview 247 — Apple intègre un serveur Model Context Protocol dans sa préversion de Safari, permettant aux agents IA de se connecter à une fenêtre de navigateur pour émuler ce que l'utilisateur voit. Une ouverture notable vers l'écosystème MCP de la part d'Apple.", "source": "MacRumors", "url": "https://www.macrumors.com/2026/07/01/apple-releases-safari-technology-preview-247/"}, {"text": "Cloudflare bloque les bots IA \"mixtes\" à partir du 15 septembre — Cloudflare change ses règles par défaut pour bloquer les bots qui combinent scraping, usage agent et entrainement sur les pages publicitaires. Passage du modèle \"Pay Per Crawl\" à \"Pay Per Use\" pour contraindre les entreprises IA à rémunérer les éditeurs.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"}]}, {"emoji": "🤩", "title": "LES DINGUERIES DU MOMENT (Reddit / Hacker News)", "items": [{"text": "Premier ransomware IA end-to-end détecté dans la nature — Sysdig a identifié la première attaque ransomware entièrement orchestrée par un agent IA autonome. L'agent a exploité une RCE Langflow pour automatiser découverte réseau, vol de credentials, chiffrement de base de données et demande de rançon, sans intervention humaine.", "source": "The Hacker News", "url": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html"}, {"text": "Cursor déploie des ingénieurs IA \"on-site\" chez les grandes entreprises — Cursor a créé une équipe d'ingénieurs Forward Deployed qui travaillent physiquement chez les clients pour construire des \"usines logicielles IA\" complètes. Ce nouveau modèle a beaucoup buzé sur HN.", "source": "Latent Space", "url": "https://www.latent.space/p/cursor-forward-deployed-engineers"}, {"text": "Anthropic Mythos trouve un bug dans le kernel Linux — Le modèle le plus avancé d'Anthropic, Mythos, a découvert de manière autonome un bug dans le code du kernel Linux, démonstration spectaculaire des capacités de raisonnement des LLMs qui a fait le tour de la communauté tech.", "source": "HackerNews (discuté)", "url": "https://news.ycombinator.com/item?id=47817581"}]}, {"emoji": "🎭", "title": "COULISSES & CONTROVERSES", "items": [{"text": "GPT-5.6 bloqué par Washington, OpenAI propose 5% de son capital en échange de coopération — Quelques jours après que le gouvernement américain a retardé la sortie générale de GPT-5.6 (jugé trop puissant), OpenAI a proposé une prise de participation de 5% pour le gouvernement. Une opération de lobbying géant à la hauteur d'une valorisation de 852 milliards $.", "source": "Tom's Hardware", "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-floats-5-percent-government-stake-days-after-washington-delayed-gpt-5-6"}, {"text": "L'administration Trump avait ordonné d'interdire Anthropic aux agences fédérales suite à un désaccord sur les armes autonomes — En février 2026, Trump avait ordonné à toutes les agences fédérales de cesser d'utiliser les produits Anthropic après un bras de fer avec le Pentagone sur les garde-fous éthiques des systèmes d'armes autonomes.", "source": "Time", "url": "https://time.com/7371825/trump-data-center-ai-backlash-ai-america-china/"}, {"text": "Build Canada génère ses communications politiques entièrement par IA : tollé éthique — Ce mouvement civique canadien soutenu par des entrepreneurs tech a publié une vidéo entièrement générée par IA pour sa communication politique, franchissant une ligne éthique selon les experts. Le débat relance la question de la réglementation de l'IA dans la communication politique.", "source": "The Hill Times", "url": "https://www.hilltimes.com/2026/07/01/build-canadas-ai-experiment-reignites-debate-over-political-communication-ethics/509911/"}]}], "email_count": 11}
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T07:00:00+02:00",
+  "sections": [
+    {
+      "emoji": "🇫🇷",
+      "title": "L'ACTUALITÉ IA EN FRANCE",
+      "items": [
+        {
+          "text": "La France investit 655 millions d'euros dans l'IA à VivaTech, avec un assistant public souverain et un chatbot santé sur Ameli : un engagement fort vers une IA d'État autonome.",
+          "source": "Le Monde Informatique / Usine Digitale",
+          "url": "https://www.usine-digitale.fr/intelligence-artificielle/"
+        },
+        {
+          "text": "Google déploie ses fonctionnalités AI Mode et AI Overviews sur son moteur de recherche en France durant l'été 2026 — les résultats de recherche français vont radicalement changer.",
+          "source": "Journal du Net",
+          "url": "https://www.journaldunet.com/business/1552077-google-va-deployer-ses-fonctionnalites-d-intelligence-artificielle-ai-mode-et-ai-overviews-sur-son-moteur-de-recherche-en-france-durant-l-ete-2026/"
+        },
+        {
+          "text": "L'assistant IA de l'État testé avec 10 000 fonctionnaires entre décembre 2025 et juin 2026 : 75 % trouvent l'outil utile. Une adoption publique qui dépasse les attentes.",
+          "source": "ia-info.fr",
+          "url": "https://www.ia-info.fr/le-comptoir-de-l-ia-2026.html"
+        },
+        {
+          "text": "Génération IA (Benoît Raphaël) lance un bootcamp « IA personnelle » à succès (196 participants, 1 000–2 000€) : passer du chatbot à l'agent IA autonome sur sa propre machine. Inscriptions rouvertes en septembre.",
+          "source": "Génération IA (newsletter)",
+          "url": "https://generationia.beehiiv.com"
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "title": "L'ACTUALITÉ IA À L'INTERNATIONAL",
+      "items": [
+        {
+          "text": "Claude Sonnet 5 lancé le 30 juin par Anthropic, default pour tous les utilisateurs Free et Pro depuis le 1er juillet — le modèle le plus agentique de la gamme Sonnet, proche d'Opus 4.8 sur de nombreuses tâches.",
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026"
+        },
+        {
+          "text": "Fable 5 restauré le 1er juillet (19 jours de suspension) : le Département du Commerce américain lève les contrôles à l'export imposés le 12 juin. La restriction la plus disruptive de l'histoire de l'IA aura duré moins de 3 semaines.",
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026"
+        },
+        {
+          "text": "L'ONU et l'UIT lancent la Commission AI for Good Global le 2 juillet, co-présidée par Marc Benioff (Salesforce) et le président rwandais Paul Kagame. Jensen Huang, Andy Jassy, Brad Smith et Jack Clark (Anthropic) parmi les membres fondateurs.",
+          "source": "AI Weekly / Build Fast with AI",
+          "url": "https://news.un.org/en/story/2026/07/1167848"
+        },
+        {
+          "text": "Anthropic lance Claude Science : un espace de travail avec 60+ outils préconfigurés pour les chercheurs, en bêta pour les abonnés Pro/Max/Team/Enterprise — accompagné d'un programme interne de drug discovery pour maladies négligées.",
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026"
+        }
+      ]
+    },
+    {
+      "emoji": "🚀",
+      "title": "LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES QUI FONT PARLER",
+      "items": [
+        {
+          "text": "Grok 4.5 entre en bêta privée chez SpaceX et Tesla : 1,5 trillion de paramètres (modèle V9), entraîné avec les données de Cursor (acquis par SpaceX pour 60 Md$). Musk affirme des perfs « proches d'Opus » — pas encore de benchmark indépendant.",
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
+        },
+        {
+          "text": "LongCat-2.0 de Meituan open-sourcé sous licence MIT : 1,6 trillion de paramètres entraîné entièrement sur puces chinoises domestiques — 59,5% sur SWE-bench Pro, au-dessus de GPT-5.5. Poids disponibles sur Hugging Face.",
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
+        },
+        {
+          "text": "GPT-5.6 : trois variantes confirmées — Sol (nouveau SOTA sur Terminal-Bench 2.1), Terra (performance GPT-5.5 à 2x moins cher), Luna (la plus rapide et la moins chère). La gamme OpenAI se stratifie.",
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026"
+        },
+        {
+          "text": "Meta Watermelon en entraînement : performance classe GPT-5.5 selon les évaluations internes, avec un ordre de grandeur de compute en plus par rapport au dernier run frontier de Meta. Pas de date de sortie confirmée.",
+          "source": "Build Fast with AI / Business Insider",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
+        },
+        {
+          "text": "Framer intègre Claude Sonnet 5 dans son agent de création de sites : précision passée de 72% à 90% en interne. Figma ouvre plus de 20 outils Weave dans Figma Design avec workflows génératifs partageables.",
+          "source": "CreativeAI.fr",
+          "url": "https://creativeai.fr/2026/07/03/ia-creative-2026-07-03/"
+        }
+      ]
+    },
+    {
+      "emoji": "🤩",
+      "title": "LES DINGUERIES DU MOMENT (Reddit / Hacker News)",
+      "items": [
+        {
+          "text": "LongCat-2.0 de Meituan était « Owl Alpha », le modèle anonyme qui trônait en tête d'OpenRouter depuis des semaines — les devs l'adoraient sans savoir que c'était chinois. Révélation choc dans la communauté.",
+          "source": "Build Fast with AI / OpenRouter",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
+        },
+        {
+          "text": "Record mondial VC H1 2026 selon Crunchbase : 510 milliards de dollars levés globalement, dont 43% absorbés par OpenAI et Anthropic à eux seuls (217 Md$). Deux startups = presque la moitié du capital-risque mondial.",
+          "source": "Crunchbase / Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
+        },
+        {
+          "text": "Grok 5 est loin : Polymarket fermait ses contrats de sortie Q3 à 3% de probabilité. Le modèle s'entraîne sur Colossus 2 (1,5 GW) avec 6 autres runs parallèles — l'ambition de 6 à 10 trillions de paramètres est colossale.",
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026"
+        },
+        {
+          "text": "Amanda Askell (la philosophe qui façonne le caractère de Claude chez Anthropic) inspire une méthode : pratiquer « l'empathie envers les modèles » pour mieux les piloter — se mettre à leur place plutôt que les engueuler quand ils ratent.",
+          "source": "Génération IA (newsletter Benoît Raphaël)",
+          "url": "https://generationia.beehiiv.com"
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "title": "COULISSES & CONTROVERSES",
+      "items": [
+        {
+          "text": "Les emails Pentagone/Anthropic, révélés en justice, exposent le vrai bras de fer : Emil Michael exigeait l'accès aux armes autonomes et à la surveillance de masse. Amodei a refusé les deux. Trump a tweeté « woke company ». Le procès continue.",
+          "source": "Platformer (Casey Newton) / Gizmodo / Wall Street Journal",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
+        },
+        {
+          "text": "OpenAI propose au gouvernement américain 5% de son capital (valorisé 42,6 Md$) dans le cadre de son IPO prévu en septembre 2026 — une structure qui lie financièrement le régulateur à la réussite commerciale d'OpenAI. Critiques immédiates de conflit d'intérêts.",
+          "source": "The Next Web / Financial Times",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
+        },
+        {
+          "text": "Anthropic ferme les loopholes d'accès à Claude pour les firmes chinoises : Ant Financial passait par sa filiale Singapour, ByteDance remboursait des abonnements personnels via VPN. Détection désormais basée sur le fuseau horaire des machines.",
+          "source": "Financial Times / Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
+        },
+        {
+          "text": "Le CEO de Palantir Alex Karp fustige l'IA frontier comme une « wealth tax » sur les entreprises : les labs s'enrichissent, leurs clients justifient difficilement leur ROI. Il promote Nemotron (Nvidia) comme alternative moins chère pour le secteur public.",
+          "source": "CNBC / Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
+        }
+      ]
+    }
+  ],
+  "email_count": 1
+}
