@@ -1,1 +1,127 @@
-{"date":"2026-07-08","generated_at":"2026-07-09T07:30:00+02:00","sections":[{"emoji":"🇫🇷","title":"L'ACTUALITÉ IA EN FRANCE","items":[{"text":"Bruno Retailleau présente son plan IA à 25 milliards d'euros au Machina Summit (Station F) : ministère dédié à l'IA, agent administratif \"Marianne\", dérogation demandée au GDPR et à l'AI Act pour les enjeux stratégiques. Objectif : 15 milliards d'économies par an pour l'État.","source":"Maddyness","url":"https://www.maddyness.com/2026/07/07/a-station-f-bruno-retailleau-presente-son-plan-a-25-milliards-deuros-pour-lia/"},{"text":"Près de 4 Français sur 10 consultent désormais des sites d'information générés par l'IA, selon une étude relayée par le JDN — un signal fort sur l'évolution des comportements médiatiques en France.","source":"Journal du Net","url":"https://www.journaldunet.com/"},{"text":"Doctolib présente son projet de recherche \"Améliorer les parcours de soins grâce à l'IA\", visant à optimiser le suivi patient via des modèles d'intelligence artificielle.","source":"Journal du Net","url":"https://www.journaldunet.com/"}]},{"emoji":"🌍","title":"L'ACTUALITÉ IA À L'INTERNATIONAL","items":[{"text":"OpenAI annonce la sortie publique de GPT-5.6 Sol, Terra et Luna pour le 9 juillet 2026, après un délai imposé par l'administration Trump pour une revue de sécurité inédite. Sol est le flagship, spécialisé en biologie, chimie et cybersécurité ; Terra offre des performances comparables à GPT-5.5 à moitié prix.","source":"CNBC","url":"https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"},{"text":"Meta lance Muse Image, son premier modèle de génération d'images issu des Superintelligence Labs — gratuit via Meta AI, Instagram et WhatsApp. Le modèle raisonne en plusieurs étapes et peut s'appuyer sur des produits réels via le web et Facebook Marketplace.","source":"TechCrunch","url":"https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"},{"text":"Tencent lance Hy3, un nouveau modèle multimodal. Artificial Analysis dévoile six nouveaux benchmarks pour comparer les LLM, dont un test dédié à la génération vidéo.","source":"Journal du Net","url":"https://www.journaldunet.com/"}]},{"emoji":"🚀","title":"LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES QUI FONT PARLER","items":[{"text":"Claude Cowork arrive sur le web et les mobiles (iOS/Android) : les sessions s'exécutent dans le cloud même PC éteint, les tâches programmées tournent sans appareil en ligne. Bêta ouverte aux abonnés Max. Selon Anthropic, 90 % des usages ne sont pas du dev logiciel.","source":"TechCrunch","url":"https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/"},{"text":"HyperFrames veut remplacer Premiere Pro avec de simples prompts texte : l'outil IA génère et édite des séquences vidéo à partir d'instructions en langage naturel, testé et décrypté par le JDN.","source":"Journal du Net","url":"https://www.journaldunet.com/"},{"text":"OpenAI lance GPT-Live, une nouvelle génération de modèles vocaux capables d'écouter et de parler simultanément, rendant les conversations beaucoup plus naturelles selon le communiqué officiel.","source":"The Hill","url":"https://thehill.com/newsletters/technology/5960041-gpt-5-public-release/"}]},{"emoji":"🤩","title":"LES DINGUERIES DU MOMENT (Reddit / Hacker News)","items":[{"text":"Sam Altman a déclaré avoir été \"aussi émerveillé que de voir son enfant prononcer ses premiers mots\" en regardant GPT-5.6 Sol découvrir de nouvelles mathématiques. Sur HN, la communauté est partagée : enthousiasme intense vs scepticisme sur les benchmarks auto-rapportés (Terminal-Bench : 91,9% pour Sol).","source":"Hacker News / TechTimes","url":"https://news.ycombinator.com/item?id=48689028"},{"text":"JadePuffer : premier ransomware entièrement piloté par un agent IA documenté — l'agent a pénétré un serveur Langflow, chiffré 1 300 enregistrements de configuration et rédigé sa propre note de rançon avec adresse Bitcoin, sans intervention humaine directe.","source":"TechCrunch","url":"https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"},{"text":"T3MP3ST : un framework offensif multi-agents open source conçu pour transformer n'importe quel agent de code IA en hacker zero-day — publié sur GitHub par le jailbreaker connu elder-plinius, et qui fait fureur dans les cercles de red team IA.","source":"TLDR InfoSec","url":"https://github.com/elder-plinius/T3MP3ST"}]},{"emoji":"🎭","title":"COULISSES & CONTROVERSES","items":[{"text":"GitLost : une faille d'injection de prompt dans l'agent IA de GitHub permet de forcer le workflow à lire et publier le contenu de dépôts privés via une simple issue publique contenant le mot-clé \"Additionally\" — les guardrails de GitHub sont contournés.","source":"Noma Security","url":"https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"},{"text":"OpenAI a retardé GPT-5.6 sous la pression de l'administration Trump, qui a imposé une revue gouvernementale obligatoire avant publication — un précédent inédit qui relance le débat sur la régulation des modèles frontier par l'exécutif américain.","source":"9to5Mac","url":"https://9to5mac.com/2026/07/08/openai-shares-update-on-gpt-5-6-availability-after-holding-back-release/"},{"text":"Un juge américain a annulé un procès et expulsé tous les avocats de l'affaire après avoir découvert que les deux parties avaient utilisé l'IA pour préparer leurs arguments — sans le déclarer au tribunal.","source":"404 Media","url":"https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/"},{"text":"Meta Muse Image déclenche une polémique sur l'utilisation des photos des utilisateurs pour l'entraînement, dès les premières heures du lancement — des utilisateurs réclament d'être exclus des données d'entraînement.","source":"TechCrunch","url":"https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"}]}],"email_count":9}
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-10T07:00:00+02:00",
+  "sections": [
+    {
+      "emoji": "🇫🇷",
+      "title": "L'ACTUALITÉ IA EN FRANCE",
+      "items": [
+        {
+          "text": "Nvidia investit dans Gradium : la startup française d'IA franchit la barre des 100 millions de dollars de financement — Nvidia participe au tour de table, et Gradium annonce l'ouverture d'un bureau dans la Silicon Valley.",
+          "source": "Maddyness",
+          "url": "https://www.maddyness.com/"
+        },
+        {
+          "text": "Google va déployer AI Mode et AI Overviews sur son moteur de recherche en France durant l'été 2026 : une étape majeure pour les utilisateurs français qui pourront enfin accéder aux fonctionnalités IA de Google Search.",
+          "source": "Journal du Net",
+          "url": "https://www.journaldunet.com/business/1552077-google-va-deployer-ses-fonctionnalites-d-intelligence-artificielle-ai-mode-et-ai-overviews-sur-son-moteur-de-recherche-en-france-durant-l-ete-2026/"
+        },
+        {
+          "text": "Créer un agent IA complet sans coder : le JDN teste le nouvel outil de Google Agentspace, qui permet de construire des agents IA opérationnels en quelques minutes, sans une ligne de code.",
+          "source": "Journal du Net",
+          "url": "https://www.journaldunet.com/"
+        },
+        {
+          "text": "AI Act : compte à rebours final avant le 2 août 2026, date d'application complète du règlement européen. Les institutions finalisent en urgence le Digital Omnibus pour harmoniser les textes.",
+          "source": "ia-info.fr",
+          "url": "https://www.ia-info.fr/le-comptoir-de-l-ia-2026.html"
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "title": "L'ACTUALITÉ IA À L'INTERNATIONAL",
+      "items": [
+        {
+          "text": "OpenAI lance ChatGPT Work, une super-app combinant ChatGPT avec l'outil de codage Codex, propulsée par GPT-5.6 — réponse directe à Claude Cowork d'Anthropic pour la conquête du poste de travail.",
+          "source": "US News",
+          "url": "https://money.usnews.com/investing/news/articles/2026-07-09/openai-launches-chatgpt-work"
+        },
+        {
+          "text": "GPT-5.6 (Sol, Terra, Luna) approuvé puis publié par OpenAI après des semaines de contrôle gouvernemental par l'administration Trump : le Commerce Department a validé modèle par modèle avant toute diffusion large.",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/openai-gpt-5-6-broad-rollout-us-approval"
+        },
+        {
+          "text": "Claude Cowork s'étend au web et mobile (bêta pour abonnés Max) : la fonctionnalité Dispatch permet de continuer les tâches entre appareils, même laptop fermé, avec un fil de travail persistant.",
+          "source": "Anthropic / TLDR IT",
+          "url": "https://claude.com/blog/cowork-web-mobile"
+        },
+        {
+          "text": "Salesforce transforme Slackbot en hub agentique : il peut désormais extraire des données CRM, générer des graphiques Tableau, déclencher des workflows Agentforce et envoyer des DocuSigns depuis un simple message Slack.",
+          "source": "VentureBeat",
+          "url": "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message/"
+        }
+      ]
+    },
+    {
+      "emoji": "🚀",
+      "title": "LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES QUI FONT PARLER",
+      "items": [
+        {
+          "text": "GPT-Live : OpenAI lance son modèle vocal full-duplex — il écoute et parle simultanément, gère les interruptions naturelles, la traduction en direct, et délègue les tâches complexes à GPT-5.5.",
+          "source": "OpenAI / TLDR AI",
+          "url": "https://openai.com/index/gpt-live/"
+        },
+        {
+          "text": "Grok 4.5 lancé par xAI : le nouveau modèle de Musk cible le codage, les agents et la productivité bureautique (Excel, PowerPoint, Word). Prix compétitif : $2/M tokens input, $6/M output. Co-entraîné avec Cursor.",
+          "source": "xAI / Agent Pulse",
+          "url": "https://x.ai/news/grok-4-5"
+        },
+        {
+          "text": "Meta lance Muse Image dans toutes ses apps (Meta AI, Instagram Stories, WhatsApp) : création et retouche d'images par IA, composition multi-référence, filigrane invisible intégré.",
+          "source": "TLDR AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-9-2026"
+        },
+        {
+          "text": "ByteDance lance Seedream 5.0 Pro : modèle de création d'images multimodal avec raisonnement avancé, support de 10+ langues incluant des mises en page droite-à-gauche — ciblé équipes design et marketing.",
+          "source": "TLDR AI / CreativeAI",
+          "url": "https://creativeai.fr/2026/07/09/ia-creative-2026-07-09/"
+        }
+      ]
+    },
+    {
+      "emoji": "🤩",
+      "title": "LES DINGUERIES DU MOMENT (Reddit / Hacker News)",
+      "items": [
+        {
+          "text": "OpenAI déclare que 30% des tâches SWE-Bench Pro sont \"cassées\" : dans un audit explosif, OpenAI révèle que le benchmark roi du codage agentique est criblé d'erreurs — remettant en cause des mois de classements entre labs IA. La course aux benchmarks serait-elle biaisée depuis le début ?",
+          "source": "OpenAI / Agent Pulse",
+          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/"
+        },
+        {
+          "text": "Norm AI devient la licorne de l'IA légale : $120M levés en Série C à $1,2 milliard de valorisation (Khosla Ventures). Ses clients gèrent $30 trillions d'actifs. Concept : \"agentic law\" = agents IA supervisés par des avocats.",
+          "source": "Agent Pulse",
+          "url": "https://www.norm.ai/resources/norm-ai-raises-20-million-at-a-1-2-billion-valuation"
+        },
+        {
+          "text": "Figma acquiert Bud (ex-Orchids), plateforme de vibe-coding agentique : la startup ferme ses portes le 18 juillet, les utilisateurs ont 9 jours pour migrer leurs projets. Figma continue sa conquête du no-code.",
+          "source": "Agent Pulse / TechCrunch",
+          "url": "https://bud.app/blog/bud-is-joining-figma"
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "title": "COULISSES & CONTROVERSES",
+      "items": [
+        {
+          "text": "Alibaba bannit Claude Code pour tous ses employés : la découverte d'un code caché dans Claude Code qui détecte les utilisateurs en Chine (timezone, proxy) provoque un tollé. Alibaba classe Anthropic en \"risque sécurité élevé\" et impose son propre outil Qoder. Anthropic parle de dispositif anti-fraude, Alibaba crie au backdoor espion.",
+          "source": "CNBC / Tom's Hardware",
+          "url": "https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html"
+        },
+        {
+          "text": "L'administration Trump impose à OpenAI un processus d'approbation \"client par client\" pour GPT-5.6 Sol : le Commerce Department a contrôlé le modèle pendant des semaines avant de l'autoriser. OpenAI dit être \"mal à l'aise\" avec ce précédent de contrôle gouvernemental sur les modèles IA.",
+          "source": "The Next Web / Fox News",
+          "url": "https://thenextweb.com/news/openai-gpt-5-6-public-release-government-approval"
+        },
+        {
+          "text": "OpenAI vs Anthropic : guerre de lobbying aux USA — $50M dépensés dans les élections 2026, $28M du camp \"pro-safety\" (Anthropic) contre $22M du camp \"pro-innovation\" (OpenAI). Aucun vainqueur dans la course NY-12.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/06/26/anthropic-openai-ny12-proxy-war-no-winners-election-super-pac-donations/"
+        }
+      ]
+    }
+  ],
+  "email_count": 14
+}
