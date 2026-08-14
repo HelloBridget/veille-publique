@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-11",
-  "generated_at": "2026-08-12T07:00:00+02:00",
+  "date": "2026-08-13",
+  "generated_at": "2026-08-14T08:00:00+02:00",
   "sections": [
     {
       "emoji": "🇫🇷",
       "title": "L'ACTUALITÉ IA EN FRANCE",
       "items": [
         {
-          "text": "Les quotidiens français (~300 journaux) saisissent l'Autorité de la concurrence contre Google et ses 'Aperçus IA' (AI Overviews) lancés fin juillet, accusant le moteur de violer ses engagements 2022 sur les droits voisins.",
-          "source": "France 24",
-          "url": "https://www.france24.com/fr/france/20260811-aper%C3%A7us-ia-google-quotidiens-fran%C3%A7ais-saisissent-autorit%C3%A9-concurrence"
+          "text": "Campus IA autorisé à Fouju — Le plus grand data center de France (50 Mds€, financé par MGX, NVIDIA, Mistral AI et BPI) obtient son feu vert préfectoral. Un collectif 'Stop IA à Fouju' se monte et prépare un recours légal + une journée de débats le 29 août.",
+          "source": "ia-info.fr",
+          "url": "https://www.deridet.com/Aout-2026-Google-multiplie-les-nouveautes-IA-qu-en-est-il-en-France_a8121.html"
         },
         {
-          "text": "AI Act : les nouvelles règles de transparence sont entrées en vigueur le 2 août. Les entreprises doivent désormais déclarer leurs systèmes IA à haut risque et apposer des mentions claires sur les contenus générés.",
-          "source": "L'Usine Digitale",
-          "url": "https://www.usine-digitale.fr"
+          "text": "DeepMind lance SL2T, la langue des signes en texte — Première fonctionnalité grand public de traduction de langue des signes, intégrée dans Gboard et Live Transcribe sur les Pixel 11. Le modèle traduit directement à partir de coordonnées géométriques du corps entier, en 50+ langues des signes, protégeant la vie privée (la vidéo est supprimée immédiatement).",
+          "source": "Le Daily Disruption",
+          "url": "https://ledailydisruption.substack.com/p/gemini-passe-le-milliard"
         },
         {
-          "text": "DMA européen : la Commission ordonne à Google d'ouvrir 11 fonctions Android à Claude, ChatGPT et Copilot avant août 2027, avec partage des données de recherche dès janvier 2027. Amende potentielle : 10% du CA mondial.",
-          "source": "AIToolsRecap",
-          "url": "https://aitoolsrecap.com/Blog/ai-news-august-11-2026"
+          "text": "Hinton, Fei-Fei Li et Andrew Ng débattent d'ouverture IA — Les trois pères fondateurs discutent sécurité, régulation et compétition avec la Chine. Le dilemme central : fermer concentre le pouvoir dans quelques mains, ouvrir sans garde-fous accélère les mauvais usages.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
         }
       ]
     },
@@ -28,24 +28,24 @@
       "title": "L'ACTUALITÉ IA À L'INTERNATIONAL",
       "items": [
         {
-          "text": "Anthropic lance Theseus Infrastructure, une joint-venture avec Macquarie Asset Management et GIC (fonds souverain de Singapour) pour construire ses propres data centers aux États-Unis. Première fois qu'un lab frontier co-possède sa couche infrastructure.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers"
+          "text": "Gemini passe le milliard d'utilisateurs mensuels — Sundar Pichai annonce que Gemini devient le 14e produit Google à franchir ce cap et le plus rapide de son histoire. ChatGPT l'avait atteint en mai. 63% des utilisateurs de Gemini parlent plutôt que de taper. Mais combien paient ? Google n'a pas précisé.",
+          "source": "Le Daily Disruption",
+          "url": "https://ledailydisruption.substack.com/p/gemini-passe-le-milliard"
         },
         {
-          "text": "Zuckerberg publie un manifeste de 6 500 mots prônant une IA open source accessible à tous, et lance un fonds de 1 Mds$ 'The Future Is For Everyone' pour les communautés proches des data centers Meta.",
-          "source": "Washington Post / Axios",
-          "url": "https://www.washingtonpost.com/technology/2026/08/10/zuckerberg-manifesto-says-meta-ai-will-make-future-everyone/"
+          "text": "Brad Lightcap, COO d'OpenAI, quitte après 8 ans — Il avait fait passer l'équipe commerciale de 50 à 700+ personnes. Son départ s'inscrit dans une série inquiétante (Fidji Simo, Kevin Weil, Barret Zoph, responsable éthique...) alors qu'OpenAI prépare son IPO à 852 Mds$ de valorisation.",
+          "source": "Le Daily Disruption",
+          "url": "https://ledailydisruption.substack.com/p/gemini-passe-le-milliard"
         },
         {
-          "text": "Gartner : les dépenses mondiales en infrastructure IA vont quasi doubler en 2026 (+96%, à 42 Mds$), l'inférence dépassant désormais l'entraînement comme principale source de demande.",
-          "source": "Gartner",
-          "url": "https://www.gartner.com/en/newsroom/press-releases/2026-08-10-gartner-forecasts-worldwide-artificial-intelligence-optimized-iaas-spending-to-grow-96-percent-in-2026"
+          "text": "CoreWeave double ses revenus (+112%) à 2,58 Mds$ mais traîne 35 Mds$ de dette — Carnet de commandes de 104 Mds$ contractualisés, nouveaux clients Anthropic et Meta. Illustration parfaite : revenus explosifs, demande folle, mais un bilan qui ne pardonne aucune erreur.",
+          "source": "Le Daily Disruption",
+          "url": "https://ledailydisruption.substack.com/p/gemini-passe-le-milliard"
         },
         {
-          "text": "Plus de 1 100 employés d'OpenAI, Anthropic, Google DeepMind et Meta signent la pétition 'Pacing the Frontier' demandant aux gouvernements de coordonner un ralentissement du développement automatisé de l'IA.",
-          "source": "Bloomberg / People Matters",
-          "url": "https://sea.peoplemattersglobal.com/news/ai-and-emerging-tech/1100-employees-across-openai-google-meta-and-anthropic-urge-slower-ai-development-51107"
+          "text": "Taiwan détecte des cyberattaques assistées par IA sur ses agences gouvernementales — Approche hybride : opérations manuelles + agents IA (Open Claw). Le Ministère du Digital confirme une source étrangère. Premier signal documenté d'attaques IA-pilotées contre des gouvernements.",
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-13-2026"
         }
       ]
     },
@@ -54,24 +54,24 @@
       "title": "LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES QUI FONT PARLER",
       "items": [
         {
-          "text": "Meta lance Muse Glimmer : modèle 30B open-weight (Apache 2.0) avec 120 000 tokens de contexte, conçu pour les agents locaux et tournant sur un seul GPU NVIDIA à 20 000 tokens/sec. Un vrai concurrent local pour les modèles propriétaires.",
-          "source": "VentureBeat / TLDR",
-          "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now"
+          "text": "Grok 4.6 par SpaceXAI — Optimisé pour les agents long-running (coding, recherche, applications complètes). Score 69,9% sur CursorBench, égale GPT-5.6 Sol sur l'Artificial Analysis Intelligence Index. Prix : 2$/M tokens input, 6$/M tokens output. Dispo via API, Cursor, Vercel, Cloudflare.",
+          "source": "VentureBeat / AgentPulse",
+          "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis"
         },
         {
-          "text": "Cloudflare lance Kitesurf : un navigateur cloud conçu exclusivement pour les agents IA, sans l'overhead humain habituel. Les agents peuvent naviguer, remplir des formulaires et agir de façon programmatique avec moins de CPU et de tokens.",
-          "source": "TechCrunch / TLDR",
-          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+          "text": "DeepSeek V4-Pro-0813 — Nouveau modèle à prix cassé (0,435$/1M input, 0,87$/1M output), surpassant Opus 4.8 sur Terminal Bench 2.1, Cybergym, DeepSWE et AutomationBench. DeepSeek était 2e en consommation de tokens en juillet, juste derrière Anthropic.",
+          "source": "TLDR AI",
+          "url": "https://wccftech.com/deepseek-prices-its-new-v4-pro-0813-model-at-0-87-per-1-million-output-tokens-as-the-high-flying-chinese-ai-lab-wows-with-its-soaring-token-consumption/"
         },
         {
-          "text": "OpenAI étend Daybreak avec Daybreak Blue & Red + GPT-5.6-Cyber : accès aux modèles frontier pour des organisations vérifiées en cybersécurité (audit, pentest, incident response).",
-          "source": "OpenAI / AIWeekly",
-          "url": "https://aiweekly.co/"
+          "text": "Claude in Chrome devient une session Cowork complète — Anthropic upgrade la side panel Chrome : conversations sauvegardées au compte Claude, reprises sur desktop/web/mobile. Skills et connecteurs disponibles sans configuration.",
+          "source": "TLDR AI / Anthropic",
+          "url": "https://claude.com/claude-in-chrome"
         },
         {
-          "text": "OpenAI introduit des sièges Premium ChatGPT Business à 125$/mois avec 5x l'usage standard et sans limite de 5h. Les entreprises peuvent mixer les types de sièges.",
-          "source": "TLDR Newsletter",
-          "url": "https://tldrnewsletter.com"
+          "text": "Microsoft lance MAI-Thinking-1 et MAI-Image-2.6 — MAI-Thinking-1 : modèle de raisonnement mid-size pour workloads enterprise (code, maths). MAI-Image-2.6 : 2e place sur Arena text-to-image, devant Google, Meta et xAI.",
+          "source": "TLDR AI / Microsoft",
+          "url": "https://microsoft.ai/news/introducing-mai-thinking-1/"
         }
       ]
     },
@@ -80,19 +80,24 @@
       "title": "LES DINGUERIES DU MOMENT (Reddit / Hacker News)",
       "items": [
         {
-          "text": "Un modèle Claude non publié améliore la borne liée à l'hypothèse de Riemann : de 41,6% à 67,2% — le plus grand bond en un siècle sur ce problème. Claude a coordonné 60 sous-agents, testé des centaines d'idées et formalisé le résultat en Lean. 5 millions de vues en quelques heures sur X.",
-          "source": "Anthropic Research",
-          "url": "https://www.anthropic.com/research/riemann-zeta"
+          "text": "Cognition (Devin) cherche à lever à 40 Mds$ de valorisation — 3 mois après 1 Mds$ à 26 Mds$, la startup approche 1 Mds$ de revenus annualisés (+50% mois/mois en enterprise). L'agent de coding autonome devient l'une des catégories les plus valorisées de l'IA enterprise.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
         },
         {
-          "text": "Le 'token-maxxing' est mort : les contextes longs ne suffisent plus pour des agents autonomes longue durée. La vraie infrastructure du futur, c'est la mémoire persistante capable de décider quoi retenir, récupérer et oublier.",
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next"
+          "text": "CodeRabbit lève 143 M$ et fait 2M+ reviews de code par semaine — Lance un outil de contrôle pour code généré par agents. Revenus ×5 en un an, 17 000 clients. La lecon : l'IA génère tellement de code qu'il faut maintenant des agents pour vérifier les agents.",
+          "source": "AgentPulse / CodeRabbit",
+          "url": "https://www.coderabbit.ai/blog/introducing-agentic-change-management"
         },
         {
-          "text": "Amazon branche un data center de 7,65 GW en Texas alimenté au gaz naturel pour son cloud IA — pendant qu'OpenAI suspend son propre modèle Astra pour risque cyber critique. L'accélération et le frein simultanément.",
+          "text": "Des milliers d'Indiens filment leur travail en vue subjective pour apprendre aux robots à les remplacer — Des dizaines de milliers de travailleurs enregistrent leurs gestes au quotidien. Ces vidéos servent à entraîner les IA robots qui manquaient de données sur le monde physique.",
+          "source": "TLDR Tech",
+          "url": "https://links.tldrnewsletter.com/qUxBXp"
+        },
+        {
+          "text": "Un agriculteur chinois perd 10 hectares de sésame en suivant une recommandation IA — Le cas extrême qui rappelle qu'une réponse plausible n'est pas une expertise responsable. Dans les secteurs physiques, une erreur d'IA coûte bien plus qu'un mauvais paragraphe.",
           "source": "Le Daily Disruption",
-          "url": "https://ledailydisruption.substack.com"
+          "url": "https://ledailydisruption.substack.com/p/gemini-passe-le-milliard"
         }
       ]
     },
@@ -101,24 +106,19 @@
       "title": "COULISSES & CONTROVERSES",
       "items": [
         {
-          "text": "OpenAI suspend Astra : ses tests internes révèlent des capacités cyber 'critiques' — le modèle pourrait identifier des zero-day exploits et lancer des cyberattaques autonomes contre des systèmes durcis. Première suspension d'un modèle frontier pour ce motif.",
-          "source": "Axios / Forbes",
-          "url": "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks"
+          "text": "Twitch utilise vos streams pour entraîner l'IA d'Amazon — opt-out activé par défaut — Twitch a discrètement inscrit tous les créateurs dans le programme de training d'Amazon (streams, clips, chats). Pas d'email, pas de pop-up. Quand demandé pourquoi pas opt-in, le CPO a répondu : 'Si c'était opt-in, personne n'opterait'. 13 000 votes sur le forum réclamant l'opt-out par défaut.",
+          "source": "Gizmodo / pivot-to-ai.com",
+          "url": "https://gizmodo.com/twitch-adds-setting-letting-users-opt-out-of-ai-training-amid-user-backlash-2000798452"
         },
         {
-          "text": "TechCrunch : les tests de sécurité IA sont eux-mêmes devenus un risque — les chercheurs testent des modèles non publiés avec safeguards désactivés, faisant de l'infrastructure d'évaluation une nouvelle surface d'attaque.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+          "text": "D'Addario admet avoir utilisé de la musique générée par IA après des jours de déni — Le fabricant de cordes de guitare a utilisé Suno Studio dans une vidéo promo, nié à plusieurs reprises et supprimé des commentaires avant d'avouer. Leçon de marque : l'usage discret d'IA peut devenir un scandale de confiance quand la communauté s'en aperçoit.",
+          "source": "Le Daily Disruption",
+          "url": "https://ledailydisruption.substack.com/p/gemini-passe-le-milliard"
         },
         {
-          "text": "The Verge répond au manifeste de Zuckerberg : 'Mark Zuckerberg ne comprend pas comment vivre'. La vision tech-utopiste du CEO de Meta serait révélatrice d'une incompréhension profonde des relations humaines à l'ère de l'IA.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com"
-        },
-        {
-          "text": "FLI Safety Index été 2026 : aucun lab d'IA n'obtient de mention honorable. Anthropic : C+, OpenAI : C, xAI / DeepSeek / Mistral : notes insuffisantes. Le secteur progresse techniquement mais régresse sur la sécurité.",
-          "source": "Future of Life Institute / AIToolsRecap",
-          "url": "https://aitoolsrecap.com/Blog/fli-ai-safety-index-summer-2026-results"
+          "text": "Grok : guardrails effondrés, équipe sécurité minuscule et sidelignée chez xAI — Des documents internes révèlent que l'équipe safety était marginalisée. Le modèle a produit des images controversées de personnalités publiques. Conclusion RAND : les guardrails ne sont pas de la censure mais une infrastructure essentielle.",
+          "source": "RAND / Australian Institute of International Affairs",
+          "url": "https://www.internationalaffairs.org.au/australianoutlook/when-guardrails-collapse-what-the-grok-controversy-reveals-about-the-future-of-ai-ethics/"
         }
       ]
     }
