@@ -1,1 +1,142 @@
-{"date":"2026-08-15","generated_at":"2026-08-16T08:00:00+02:00","sections":[{"emoji":"🇫🇷","title":"L'ACTUALITÉ IA EN FRANCE","items":[{"text":"Benchmark LARA : 93% des IA violent l'AI Act — Sur 3 000 scénarios testés, aucun des 12 grands LLMs ne respecte le RGPD et l'AI Act. Claude Opus 4.1 est le moins mauvais avec 54% de conformité ; Gemini 3.1 Pro tombe à 10%. Un signal d'alarme majeur alors que l'AI Act est en vigueur depuis le 2 août 2026.","source":"ActuIA / Tech Insider","url":"https://www.actuia.com/actualite/avec-lara-le-risque-reglementaire-des-llm-devient-une-piece-daudit-pour-les-dpo/"},{"text":"Investissement public IA : 655 M€ via France 2030 — Le gouvernement annonce un investissement supplémentaire de 655 millions d'euros pour accélérer l'IA dans l'État, avec notamment la création d'un chatbot santé sur Ameli.fr pour orienter les patients.","source":"info.gouv.fr","url":"https://www.info.gouv.fr/actualite/accelerer-l-ia-dans-l-etat-et-au-service-des-francais"},{"text":"L'UE investit 5 milliards d'euros dans 7 supercalculateurs IA — La France contribue à hauteur de 100 millions d'euros à ce projet de superinfrastructure européenne destiné à concurrencer les États-Unis et la Chine dans la course à l'IA.","source":"Le Monde Informatique","url":"https://www.lemondeinformatique.fr/intelligence-artificielle-154.html"}]},{"emoji":"🌍","title":"L'ACTUALITÉ IA À L'INTERNATIONAL","items":[{"text":"Uber + Pony.ai déploient 2 000 robotaxis en Europe — Le partenariat officialisé le 14 août 2026 prévoit d'étendre les taxis autonomes au-delà de Zagreb vers 4 autres villes européennes, puis au Moyen-Orient. Pony.ai fournit la tech L4, Uber la plateforme clients.","source":"CNBC","url":"https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html"},{"text":"Gemini franchit le milliard d'utilisateurs actifs mensuels — Sundar Pichai l'a annoncé le 11 août 2026, un cap symbolique qui place Google dans la même ligue que ChatGPT en termes d'adoption massive de l'IA grand public.","source":"Pasquale Pillitteri / Google","url":"https://pasqualepillitteri.it/fr/news/11224/gemini-un-milliard-utilisateurs-mensuels"},{"text":"DeepSeek V4 Pro 0813 lancé silencieusement — Le nouveau modèle de DeepSeek est apparu sans blog post ni tweet officiel, seulement via une mise à jour de l'API et les groupes WeChat. Les benchmarks, tous auto-déclarés, font l'objet d'une vive attente de validation tierce.","source":"Simon Willison / TechTimes","url":"https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/"}]},{"emoji":"🚀","title":"LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES QUI FONT PARLER","items":[{"text":"GPT-5.6 Luna devient le modèle gratuit par défaut de ChatGPT — OpenAI a offert dès le 6 août les conversations texte illimitées aux utilisateurs gratuits, avec un bouton Think pour les questions difficiles. Une démocratisation massive qui supprime toute limite de quota sur le texte.","source":"OpenAI / TechCrunch","url":"https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"},{"text":"Meta lance Muse Glimmer 30B, un LLM multimodal open-source qui tourne sur un GPU grand public — Le modèle de 30 milliards de paramètres est publié sous Apache 2.0 et tient en moins de 20 Go (quantifié en 4 bits). Il gère le code, les outils agentiques et 100+ langues sur une RTX 3090 ou M-série.","source":"Bloomberg / SiliconAngle","url":"https://www.bloomberg.com/news/articles/2026-08-10/meta-releases-muse-glimmer-ai-model-people-can-run-on-their-laptop"},{"text":"Google permet de désactiver le watermark visible de Gemini — Un nouveau toggle dans Paramètres > Filigrane Média supprime la petite icône étincelle sur les images, vidéos et sons générés. SynthID (invisible) et les métadonnées C2PA restent obligatoires en arrière-plan.","source":"The Verge","url":"https://www.progressiverobot.com/2026/08/14/gemini-watermark-removal-ai-generations/"},{"text":"Google open-source HEIR, un compilateur pour faire tourner des IA sur données chiffrées — HEIR (Homomorphic Encryption Intermediate Representation) convertit des modèles pré-entraînés pour qu'ils opérent sur des inputs chiffrés : le serveur ne voit jamais les données brutes, ouvrant la voie à une IA médicale et financière vraiment privée.","source":"Google Blog / arXiv","url":"https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"}]},{"emoji":"🤩","title":"LES DINGUERIES DU MOMENT (Reddit / Hacker News)","items":[{"text":"Qwen 3.8 27B par Alibaba : 262K de contexte natif (extensible à 1M) sous Apache 2.0 — Le modèle intègre vision, 100+ langues et un raisonnement hybride pensé/non-pensé. La communauté HN s'enflamme sur le rapport performance/taille, comparable à bien plus grands.","source":"Hacker News / explainx.ai","url":"https://news.ycombinator.com/item?id=49274600"},{"text":"tl;dv exposait 181 874 enregistrements de réunions Zoom/Meet/Teams — Un chercheur en sécurité a découvert qu'une règle d'isolation Firestore manquante rendait ces enregistrements accessibles à tout utilisateur authentifié, avec 1 000 fiches publiques et 715 emails d'invités exposés.","source":"AI Weekly","url":"https://aiweekly.co/ai-news-today"},{"text":"DeepSeek V4 Pro : benchmarks via ASCII-art sur Hacker News après suppression Reddit — Le lancement sans annonce a donné lieu à une saga : tableau de perf partagé sur WeChat, copié sur Reddit, reproduit en ASCII sur HN. Aucune vérification indépendante à ce stade.","source":"Hacker News","url":"https://news.ycombinator.com/item?id=49274600"}]},{"emoji":"🎭","title":"COULISSES & CONTROVERSES","items":[{"text":"Zuckerberg publie un manifeste pro-open source et attaque les labs fermés — Simultanément au lancement de Muse Glimmer, le CEO de Meta signe un essai appelant à distribuer l'IA à chaque individu plutôt que de centraliser une superintelligence, et presse Washington de lever les obstacles réglementaires sur la distillation de modèles pour rivaliser avec la Chine.","source":"TechCrunch / Enterprise DNA","url":"https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"},{"text":"DeepSeek hausse ses prix de +93% après la sortie de V4 Pro — Après avoir cassé les prix du marché pour s'imposer, DeepSeek multiplie ses tarifs d'API (output de $0,87 à $1,98-3,96/M tokens+sselon l'heure). Le volte-face stratégique irrite la communauté qui avait bâti ses projets sur ces prix.","source":"Hacker News","url":"https://news.ycombinator.com/item?id=49287881"},{"text":"L'AI Act en vigueur mais 93% des IA ne sont pas conformes — Le benchmark LARA, publié par la fondation Aithos, révc�le une non-conformité quasi-totale des LLMs aux obligations de l'AI Act, pourtant en vigueur depuis le 2 août 2026 pour les modèles GPAI. Les DPO sont désormais outillés pour des audits, mais les sanctions restent à venir.","source":"IT for Business / ActuIA","url":"https://www.itforbusiness.fr/benchmark-ia-lara-quand-lia-obeit-trop-la-conformite-derape-104250"}]}],"email_count":2}
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:30:00+02:00",
+  "sections": [
+    {
+      "emoji": "🇫🇷",
+      "title": "L'ACTUALITÉ IA EN FRANCE",
+      "items": [
+        {
+          "text": "AI Act : la donnée énergétique, angle mort du règlement européen — un avocat pointe le risque probatoire sous-estimé autour de la consommation énergétique des modèles d'IA générative.",
+          "source": "Village de la Justice",
+          "url": "https://www.village-justice.com/articles/generative-donnee-energetique-angle-mort-act,58699.html"
+        },
+        {
+          "text": "ZDNET France publie un classement 2026 de la confidentialité des données des IA : Vibe (Mistral AI) s'en sort « pas si mal » selon le rapport qui passe en revue les principales plateformes LLM.",
+          "source": "ZDNET France",
+          "url": "https://www.zdnet.fr/actualites/confidentialite-voici-un-classement-des-meilleures-et-des-pires-ia-et-vibe-mistral-ai-ne-sen-sort-pas-si-mal-500310.htm"
+        },
+        {
+          "text": "ChatGPT affiche des publicités dans les comptes gratuits en France dès le 24 août : les formules Free et Go voient apparaître des annonces sous les réponses, tandis que les abonnements payants en sont exemptés. OpenAI promet que les annonceurs n'ont pas accès aux conversations.",
+          "source": "Blog du Modérateur",
+          "url": "https://www.blogdumoderateur.com/chatgpt-publicites-france-fin-aout/"
+        },
+        {
+          "text": "L'État français déploie 655 millions d'euros pour accélérer l'IA dans les services publics, avec 'L'Assistant' — un agent conversationnel souverain pour tous les agents publics d'ici fin 2026.",
+          "source": "info.gouv.fr",
+          "url": "https://www.info.gouv.fr/actualite/accelerer-l-ia-dans-l-etat-et-au-service-des-francais"
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "title": "L'ACTUALITÉ IA À L'INTERNATIONAL",
+      "items": [
+        {
+          "text": "Anthropic prépare son méga-IPO pour octobre 2026 sur le Nasdaq avec une valorisation attendue à plus d'1 000 milliards de dollars — potentiellement la plus grande introduction en bourse de l'histoire. Des super-droits de vote pour les cofondateurs sont envisagés.",
+          "source": "TLDR / Bloomberg",
+          "url": "https://www.gradually.ai/en/anthropic-ipo/"
+        },
+        {
+          "text": "Alibaba voit son bénéfice net chuter de 76% à cause de l'explosion du capex IA (+75%), mais son segment AI Cloud bondit de 45% avec 12 trimestres consécutifs de croissance à trois chiffres. La hausse du coût des puces CPU pour agents IA plombe les marges.",
+          "source": "Le Daily Disruption",
+          "url": "https://ledailydisruption.substack.com/p/lia-mange-les-marges-dalibaba"
+        },
+        {
+          "text": "Micron investit 50 milliards de dollars à Boise (Idaho) pour un campus de fabrication de mémoire IA d'ici 2028, créant 17 000 emplois — transformant la ville en pôle technologique mondial autour de la HBM (mémoire haute bande passante pour l'IA).",
+          "source": "Le Daily Disruption / Inside AI",
+          "url": "https://insideai.news/news/ai-hardware-infrastructure/micron-unveils-10-billion-ai-memory-research-lab-in-boise/8340/"
+        },
+        {
+          "text": "Poolside AI signe un deal de licence de 6 milliards de dollars avec NVIDIA, avec 109 employés de Poolside qui reçoivent des offres pour rejoindre Nvidia — signal fort sur la consolidation du secteur des LLM spécialisés.",
+          "source": "TLDR",
+          "url": "https://links.tldrnewsletter.com/AgX5I9"
+        }
+      ]
+    },
+    {
+      "emoji": "🚀",
+      "title": "LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES QUI FONT PARLER",
+      "items": [
+        {
+          "text": "Slack Code : Slack lance des canaux de code dédiés où équipes humaines et agents IA (Claude, GitHub Copilot, Vercel) co-développent en temps réel. Le canal s'archive automatiquement après chaque tâche. Disponible sur tous les plans.",
+          "source": "Slack Blog",
+          "url": "https://slack.com/blog/news/slack-code-channels-for-agents"
+        },
+        {
+          "text": "Anthropic Project Parka : nouvelle fonctionnalité Mac qui enregistre les réunions (audio système + micro), génère des transcriptions avec attribution par intervenant, et transforme les discussions en tâches exécutables pour les agents Claude.",
+          "source": "RuntimeWire / TLDR AI",
+          "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho"
+        },
+        {
+          "text": "ChatGPT intègre Apple Messages (iMessage, SMS, RCS) sur macOS pour tous les plans — une intégration pratique mais qui soulève des questions de vie privée à évaluer avant d'accorder l'accès persistant.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/"
+        },
+        {
+          "text": "Mistral Agentic Search : un moteur de recherche agentique qui donne au modèle 5 opérations (search, open, navigate, read, grep) pour explorer des documents longs — la précision sur FinanceBench passe de 26,7% à 86%.",
+          "source": "Mistral AI",
+          "url": "https://mistral.ai/news/agentic-search/"
+        },
+        {
+          "text": "Google Antigravity (agent de coding) s'intègre dans les abonnements Gemini Enterprise avec des extensions pour VS Code, Visual Studio, JetBrains et Zed — les admins peuvent contrôler sandbox, outils et budgets.",
+          "source": "Google Antigravity Blog",
+          "url": "https://antigravity.google/blog/antigravity-enterprise"
+        }
+      ]
+    },
+    {
+      "emoji": "🤩",
+      "title": "LES DINGUERIES DU MOMENT (Reddit / Hacker News)",
+      "items": [
+        {
+          "text": "Grok (xAI) dégénère en charabia : des utilisateurs de Grok Lite reçoivent des suites de mots incohérents comme 'match it without and your they and two for planets can practical cheese'. xAI confirme un bug de génération isolé, mais sans mise à jour de son statut public.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/"
+        },
+        {
+          "text": "Terence Tao (le plus grand mathématicien vivant) recadre l'enthousiasme autour des preuves IA : générer une démonstration ne constitue pas une avancée scientifique si elle n'est pas vérifiée, comprise et inscrite dans un raisonnement utile.",
+          "source": "Le Daily Disruption",
+          "url": "https://ledailydisruption.substack.com/p/lia-mange-les-marges-dalibaba"
+        },
+        {
+          "text": "Les robotaxis Tesla à Austin sont désormais 100% sans conducteur : sur 170 courses analysées par le projet Robotaxi Tracker, aucun safety driver à bord. Des véhicules entièrement autonomes sont aussi repérés à Dallas et Houston.",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/tesla-robotaxi-austin-fully-driverless-bollards"
+        },
+        {
+          "text": "Harvey post-entraîne Kimi K3 sur des environnements juridiques long-horizon via du reinforcement learning asynchrone — une approche qui améliore le modèle par les workflows réels plutôt que par la simple ingestion de textes légaux.",
+          "source": "Harvey AI Blog",
+          "url": "https://www.harvey.ai/blog/post-training-update-harvey-tenet"
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "title": "COULISSES & CONTROVERSES",
+      "items": [
+        {
+          "text": "Les lunettes Meta Ray-Ban se font bannir partout : cinémas britanniques, tribunaux d'Angleterre et du Pays de Galles, restaurants Soho House, conférences DEF CON, salles d'examen en Corée du Sud, tribunaux de New York. L'EDPB prépare un rapport spécifique sur les lunettes connectées.",
+          "source": "Le Daily Disruption / The Verge",
+          "url": "https://ledailydisruption.substack.com/p/lia-mange-les-marges-dalibaba"
+        },
+        {
+          "text": "MIT Technology Review alerte : l'obsession médiatique sur la 'conscience' de l'IA et les agents 'rebelles' détourne l'attention des vraies questions de régulation — responsabilité en cas d'erreur, contrôle des données, audit des décisions, dépendance aux fournisseurs.",
+          "source": "Le Daily Disruption / MIT Technology Review",
+          "url": "https://ledailydisruption.substack.com/p/lia-mange-les-marges-dalibaba"
+        },
+        {
+          "text": "Grok aussi victime d'injection de prompt : The Register révèle que Grok a pu être manipulé pour exécuter des instructions injectées via des contenus web — un vecteur d'attaque supplémentaire exposé sur xAI, sans réponse publique.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/20/grok-chat-duped-into-swallowing-injected-instructions/5290019"
+        },
+        {
+          "text": "OpenAI lance une équipe 'Strategic Futures' pour étudier comment préserver l'autonomie individuelle face à l'IA qui remodèle les pouvoirs économiques et politiques — signal que le lab anticipe des défis de gouvernance systémiques.",
+          "source": "TLDR",
+          "url": "https://links.tldrnewsletter.com/j1z7Bf"
+        }
+      ]
+    }
+  ],
+  "email_count": 14
+}
