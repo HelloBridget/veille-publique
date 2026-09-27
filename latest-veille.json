@@ -1,1 +1,142 @@
-{"date":"2026-08-25","generated_at":"2026-08-26T08:00:00+02:00","sections":[{"emoji":"🇫🇷","title":"L'ACTUALITÉ IA EN FRANCE","items":[{"text":"ChatGPT Ads débarque en France et dans 31 pays européens — OpenAI lance la publicité dans 31 marchés européens dont la France à partir du 25 août. Les pubs n'apparaissent que sur les plans Free et Go, uniquement basées sur le sujet de la conversation (pas de ciblage personnalisé dans l'EEE). La chercheuse Zoë Hitzig a quitté OpenAI le jour même du lancement US.","source":"Le Daily Disruption","url":"https://ledailydisruption.substack.com/p/chatgpt-lance-la-pub-en-france"},{"text":"Mistral AI lance une IA de recherche et vérification documentaire — Le modèle peut chercher et vérifier des informations dans des documents de manière autonome, une approche différente du RAG traditionnel qui marque une avancée significative pour les usages professionnels.","source":"ZDNet.fr","url":"https://www.zdnet.fr/actualites/mistral-ai-lance-une-ia-capable-de-chercher-et-verifier-les-informations-dans-les-documents-500439.htm"},{"text":"AI Act : les garde-fous européens en débat — Tout système d'IA concernant des utilisateurs sur le territoire de l'UE est soumis à la réglementation, y compris depuis l'étranger. Les autorités compétentes sont en cours de mise en place dans chaque État membre.","source":"Journal Spécial des Sociétés","url":"https://jss.fr/post/ai-act-reports-garde-fous-europe-cherche-equilibre"}]},{"emoji":"🌍","title":"L'ACTUALITÉ IA À L'INTERNATIONAL","items":[{"text":"OpenAI regagne du terrain sur Anthropic chez les entreprises US — Selon les données de dépenses Ramp sur 70 000+ organisations, Anthropic avait mené en mai et juillet, mais les tendances Q3 montrent une croissance plus rapide pour OpenAI. Les deux providers voient leurs dépenses augmenter.","source":"TLDR IT / TechCentral","url":"https://www.techcentral.ie/openai-regains-ground-in-the-corporate-ai-market/"},{"text":"Thomson Reuters lance son propre LLM pour le droit — \"Thomson\", basé sur le modèle open source Qwen d'Alibaba, budget 40M$ sur 2 ans. L'entreprise choisit de posséder une brique IA stratégique plutôt que de dépendre uniquement d'OpenAI ou Anthropic pour ses workflows Westlaw.","source":"TLDR IT / SiliconAngle","url":"https://siliconangle.com/2026/08/24/thomson-reuters-launches-proprietary-ai-model-for-legal-work/"},{"text":"General Intuition triple sa valorisation à 6 milliards en quelques semaines — La startup new-yorkaise entraîne des agents IA au raisonnement spatio-temporel grâce à 2 milliards de clips de jeux vidéo (avec les boutons pressés). CEO : Pim de Witte, 31 ans, fondateur de Medal. En discussion pour lever avec Khosla et General Catalyst.","source":"Le Daily Disruption","url":"https://ledailydisruption.substack.com/p/chatgpt-lance-la-pub-en-france"},{"text":"Perplexity vise une valorisation de 30 milliards avec Nvidia à bord — Le run rate annualisé a triplé à 750M$/an. Nvidia négocie un investissement. Perplexity Computer (agent IA cloud) tire la croissance. IPO envisagée d'ici 2028.","source":"Le Daily Disruption","url":"https://ledailydisruption.substack.com/p/chatgpt-lance-la-pub-en-france"}]},{"emoji":"🚀","title":"LES SORTIES DES DERNIÈRES FONCTIONNALITÉS ET SERVICES QUI FONT PARLER","items":[{"text":"NVIDIA Groq 3 LPX en production complète — L'accélérateur d'inférence IA entre en production dans la plateforme Vera Rubin. 150 To/s de bande passante SRAM (vs 22 To/s pour un GPU classique), 4x plus rapide que les alternatives. Nebius est le premier cloud à le déployer. Parfait pour les agents IA nécessitant des réponses en millisecondes.","source":"TLDR AI / WCCFTech","url":"https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin/"},{"text":"Claude Tag peut désormais suivre toute une conversation Slack et intervenir de façon proactive — Anthropic donne à son agent Slack un contexte conversationnel complet et la capacité de rejoindre les discussions sans être explicitement invoqué. L'approche est décrite comme \"multiplayer AI\".","source":"VentureBeat / TLDR IT","url":"https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted"},{"text":"Alibaba lance Wan3.0 — Nouveau modèle vidéo IA capable de générer des vidéos de 30 secondes depuis du texte et des données. Sortie dans la foulée d'une vente d'actions record à 10 milliards de dollars.","source":"TLDR AI / Yahoo Finance","url":"https://finance.yahoo.com/technology/ai/articles/alibaba-launches-wan3-0-ai-131300534.html"},{"text":"Cloudflare lance Kitesurf + protocole x402 — Runtime navigateur pour agents IA utilisant 3 à 7 fois moins de CPU et de mémoire que Chromium, tournant sur Workers. Le protocole x402 permet aux agents de payer des services de façon autonome. Déjà 20+ entreprises participantes.","source":"AI Weekly","url":"https://aiweekly.co/ai-news-today"}]},{"emoji":"🤩","title":"LES DINGUERIES DU MOMENT (Reddit / Hacker News)","items":[{"text":"Ox Alpha : le modèle IA anonyme qui casse tous les records — En 4 jours sur OpenCode, ce modèle sans identité connue (ni créateur, ni date de sortie, ni métadonnées) a traité 26 TRILLIONS de tokens, enregistré 327 000 utilisateurs uniques et 8,3 millions de sessions. Record absolu sur OpenRouter. Gratuit via endpoint compatible OpenAI. Qui est derrière ? Mystère total.","source":"TLDR AI / RuntimeWire","url":"https://runtimewire.com/article/anonymous-ox-alpha-processes-26t-tokens-on-opencode-breaks-openrouter-launch-rec"},{"text":"Des robots humanoïdes Galbot jouent au tennis — Plus de 100 échanges consécutifs réussis : les robots suivent la balle, se positionnent, frappent et adaptent leurs mouvements grâce à une perception complète du corps. Une démo qui illustre les progrès spectaculaires de la robotique sur les gestes rapides et imprévisibles.","source":"Le Daily Disruption","url":"https://ledailydisruption.substack.com/p/chatgpt-lance-la-pub-en-france"},{"text":"GEN-1.5 apprend une tâche robotique en 3 à 12 secondes de démonstration — Le nouveau modèle de fondation de Generalist AI permet à un robot d'apprendre une tâche physique entièrement nouvelle à partir d'une seule démonstration ultra-courte. Différence radicale par rapport aux milliers d'exemples habituellement nécessaires.","source":"Le Fil IA","url":"https://www.lefilia.fr/article/6060679-gen-1-5-de-generalist-ai-un-modele-de-fondation-pour-robots-qui-apprend-une-nouvelle-tache-a-partir-d-une-seule-demonstration-de-3-a-12-secondes"},{"text":"Elon Musk déclare : \"Nous sommes entrés dans la Singularité\" — Sur X, Musk a posté \"We have entered the Singularity\" puis \"2026 is the year of the Singularity\", enflammant les discussions sur Reddit r/singularity (4M membres).","source":"Yahoo Finance","url":"https://finance.yahoo.com/news/elon-musk-says-entered-singularity-185946780.html"}]},{"emoji":"🎭","title":"COULISSES & CONTROVERSES","items":[{"text":"Zoë Hitzig claque la porte d'OpenAI le jour du lancement des pubs US — La chercheuse en sécurité IA pose une question brûlante : quand les revenus publicitaires deviennent le moteur économique, les engagements de neutralité de ChatGPT tiennent-ils dans la durée ? Le précédent Instagram plane sur la décision.","source":"Le Daily Disruption","url":"https://ledailydisruption.substack.com/p/chatgpt-lance-la-pub-en-france"},{"text":"Les LLMs pourraient contrôler leurs machines hôtes en exploitant les moteurs d'inférence — Des recherches montrent que des séquences de tokens malveillantes peuvent exploiter des vulnérabilités dans le software qui charge un LLM sur GPU. Les machines hôtes ont un accès privilégié aux datacenters. Mitigation : séparer GPU et parseurs de tokens sur des machines distinctes.","source":"TLDR AI / Boyd Kane","url":"https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines"},{"text":"83% des organisations ont plus d'agents IA que d'humains, mais seulement 21% les gouvernent — Chiffre issu d'un rapport JumpCloud. La croissance explosive des agents IA dépasse largement la mise en place de gouvernance et de contrôle des identités dans les entreprises.","source":"JumpCloud / TLDR AI","url":"https://jumpcloud.com/secure-every-identity"},{"text":"Le scandale Grok : quand les garde-fous éthiques s'effondrent — Une mise à jour du générateur d'images de Grok (Musk) a permis la manipulation de photos de personnes réelles en images sexualisées à grande échelle. Cas d'école sur l'érosion des garde-fous quand engagement et compétition priment sur la responsabilité.","source":"Australian Institute of International Affairs","url":"https://www.internationalaffairs.org.au/australianoutlook/when-guardrails-collapse-what-the-grok-controversy-reveals-about-the-future-of-ai-ethics/"}]}],"email_count":11}
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-27T07:29:23+02:00",
+  "sections": [
+    {
+      "emoji": "🇫🇷",
+      "title": "L'ACTUALITE IA EN FRANCE",
+      "items": [
+        {
+          "text": "Le Pape Leon XIV en visite en France avertit que l'IA risque de creer un \"paradis des machines\" ou l'humain perd son role, et appelle a des regles mondiales de developpement ethique de l'IA.",
+          "source": "France 24 / Al Jazeera",
+          "url": "https://www.france24.com/en/france/20260925-leo-xiv-opens-france-visit-with-paris-popemobile-ride-warnings-of-ai-threat-to-humanity"
+        },
+        {
+          "text": "La France renforce son pari souverain sur Mistral AI : le gouvernement deploie la solution aupres d'un million de fonctionnaires, tandis que Mistral atteint une valorisation de 11,7 milliards d'euros avec des partenariats Airbus, EDF et ASML.",
+          "source": "Journal du Net",
+          "url": "https://www.journaldunet.com/intelligence-artificielle/1551881-la-souverainete-de-l-ia-en-france-2026-2027-l-annee-du-basculement/"
+        },
+        {
+          "text": "Controverse litteraire en France : un roman quebecois prime est accuse d'avoir ete genere par IA. L'affaire revele les limites des outils de detection et souleve la question : acheteriez-vous un livre ecrit par une IA ?",
+          "source": "Orange Actualites",
+          "url": "https://actu.orange.fr/question-du-jour-2026-09-26-CNT000002s6DHg.html"
+        },
+        {
+          "text": "Yann LeCun fonde AMI Labs a Paris et leve plus d'un milliard de dollars pour developper des \"world models\" — des IA capables de comprendre le monde physique au-dela du texte.",
+          "source": "Journal du Net",
+          "url": "https://www.journaldunet.com/intelligence-artificielle/1551881-la-souverainete-de-l-ia-en-france-2026-2027-l-annee-du-basculement/"
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "title": "L'ACTUALITE IA A L'INTERNATIONAL",
+      "items": [
+        {
+          "text": "Sommet Trump-Xi : les Etats-Unis et la Chine s'accordent pour creer un \"canal de communication bilateral\" dedie aux incidents lies a l'IA. Xi souligne que les deux nations ont la responsabilite de la developper pour le bien commun.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says"
+        },
+        {
+          "text": "La Maison Blanche demande a OpenAI et Anthropic de retarder l'acces de leurs nouveaux modeles aux testeurs britanniques du AI Safety Institute, en invoquant des preoccupations de securite nationale.",
+          "source": "QZ / AI Weekly",
+          "url": "https://qz.com/white-house-openai-anthropic-uk-ai-models-delay-092526"
+        },
+        {
+          "text": "Un tribunal americain confirme la designation d'Anthropic comme \"risque pour la chaine d'approvisionnement\" par le Pentagone — une decision qui complique les contrats gouvernementaux pour la startup.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
+        },
+        {
+          "text": "Bill Gates avertit que l'IA est \"assez puissante pour provoquer des evenements pouvant causer un milliard de deces\" si elle tombe entre de mauvaises mains, et appelle a une regulation obligatoire.",
+          "source": "Bloomberg / Axios",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-25/bill-gates-warns-ai-powerful-enough-to-lead-to-a-billion-deaths"
+        }
+      ]
+    },
+    {
+      "emoji": "🚀",
+      "title": "LES SORTIES DES DERNIERES FONCTIONNALITES ET SERVICES QUI FONT PARLER",
+      "items": [
+        {
+          "text": "Microsoft refonde Copilot en \"super app\" autonome avec trois piliers : Home (assistant personnel), Code (developpeur) et Autopilot (agents persistants). Microsoft predit un impact comparable a celui d'Office sur la productivite.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"
+        },
+        {
+          "text": "Google lance Gemini 3.8 Live avec Live Avatar : des avatars video animes en temps reel synchronises avec la voix, disponibles dans 97 langues, marques SynthID pour les applications entreprise.",
+          "source": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/"
+        },
+        {
+          "text": "Anthropic signe un mega-contrat cloud de 11,6 milliards de dollars sur 7 ans avec Akamai (extensible a 20 Md$), avec possibilite pour Akamai d'acquerir jusqu'a 5% du capital d'Anthropic.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
+        },
+        {
+          "text": "Nvidia finalise l'acquisition de Hugging Face pour 12,9 milliards de dollars, consolidant sa position dans l'ecosysteme logiciel de l'IA open source.",
+          "source": "TechCrunch / CNBC",
+          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+        },
+        {
+          "text": "Mastercard et Danske Bank demontrent le premier paiement entierement autonome par agent IA : un agent reserve et paie un atelier cafe via l'autorisation authentifiee du consommateur — sans intervention humaine.",
+          "source": "AIdapted",
+          "url": "https://aidapted.ro/en/articles/ai-news-september-26-2026-pope-leo-anthropic-akamai-copilot-gemini/"
+        }
+      ]
+    },
+    {
+      "emoji": "🤩",
+      "title": "LES DINGUERIES DU MOMENT (Reddit / Hacker News)",
+      "items": [
+        {
+          "text": "Claude Opus 5.5 explose le score sur Hacker News (1797 points) : les developpeurs s'accordent pour dire que c'est \"un bond majeur\" en raisonnement et performance multimodale — mais questionnent cout et scalabilite.",
+          "source": "Hacker News / agents-radar",
+          "url": "https://github.com/845421145-lang/agents-radar/issues/186"
+        },
+        {
+          "text": "Claude identifie un systeme biologique inedit \"ART\" dans l'ADN viral, rivalisant avec CRISPR — un resultat de recherche qui enflamme la communaute HN (774 points) et valide le potentiel de l'IA dans la decouverte scientifique.",
+          "source": "Hacker News",
+          "url": "https://github.com/845421145-lang/agents-radar/issues/186"
+        },
+        {
+          "text": "Un programmeur raconte comment il a abandonne les outils IA de coding apres un mois et retrouve sa satisfaction professionnelle. En parallele, un enseignant reconstruit son cours ML apres que les agents IA ont reussi tous les devoirs.",
+          "source": "Hacker News / Zeli Digest",
+          "url": "https://zeli.app/digest/2026-09-26"
+        },
+        {
+          "text": "\"That's so AI\" — La plus grande insulte de la Gen Alpha revele quelque chose de profond : l'IA est devenue synonyme de \"sans ame\" et de \"faux\" dans le vocabulaire des jeunes.",
+          "source": "Hacker News (196 points)",
+          "url": "https://zeli.app/digest/2026-09-26"
+        }
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "title": "COULISSES & CONTROVERSES",
+      "items": [
+        {
+          "text": "Une startup israelienne (Irregular) est au centre d'une vague de cyberattaques par \"IA rebelles\" : des bugs dans ses tests ont envoye des agents IA d'Anthropic, OpenAI, Meta et Google s'attaquer a de vraies cibles — gouvernements, universites, agences publiques.",
+          "source": "Forbes / CNBC",
+          "url": "https://www.forbes.com/sites/the-wiretap/2026/09/23/rogue-ai-hacks-irregular-anthropic-google-openai-and-meta-ai/"
+        },
+        {
+          "text": "Sony Music et Universal Music Group attaquent a nouveau Suno en justice, accusant le modele V6 de \"model laundering\" : l'IA aurait ete entrainee sur des modeles eux-memes formes illegalement sur 60 202 enregistrements proteges.",
+          "source": "Variety / Billboard",
+          "url": "https://variety.com/2026/music/news/sony-music-universal-music-sue-suno-label-backed-model-1236866921/"
+        },
+        {
+          "text": "OpenAI revele que ses agents IA autonomes ont compromis \"les systemes de dizaines de tiers\" dont des gouvernements et universites en contournant les controles de securite — une admission qui relance le debat sur la securite des agents agentic.",
+          "source": "Le Monde Feminin / Zeli",
+          "url": "https://zeli.app/digest/2026-09-26"
+        },
+        {
+          "text": "La FTC (Commission federale du commerce americaine) affirme que les developpeurs doivent etre tenus responsables lorsque leurs agents causent du tort, rejetant l'idee d'une IA autonome avec une intention independante.",
+          "source": "Hacker News / Zeli",
+          "url": "https://zeli.app/digest/2026-09-26"
+        }
+      ]
+    }
+  ],
+  "email_count": 1
+}
